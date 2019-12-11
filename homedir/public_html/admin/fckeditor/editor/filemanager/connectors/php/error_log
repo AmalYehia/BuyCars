@@ -1,0 +1,2 @@
+[17-Mar-2012 22:26:15 UTC] PHP Warning:  opendir(/home/ecnegypt/public_html/images/file/index.php/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/ecnegypt/public_html/admin/fckeditor/editor/filemanager/connectors/php/commands.php on line 63
+[17-Mar-2012 22:26:15 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/ecnegypt/public_html/admin/fckeditor/editor/filemanager/connectors/php/commands.php on line 65

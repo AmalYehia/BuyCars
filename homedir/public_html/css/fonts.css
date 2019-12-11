@@ -1,0 +1,111 @@
+.font_1 {
+	FONT-SIZE: 12px; font-weight:bolder; COLOR: #000000; FONT-FAMILY: Verdana;
+}
+.font_1_ar {
+	FONT-SIZE: 12px; font-weight:bolder; COLOR: #000000; FONT-FAMILY: Tahoma;
+}
+.font_2 {
+	FONT-SIZE: 14px; font-weight:bolder; COLOR: #0b4c86; FONT-FAMILY: "MS Sans Serif"
+}
+.font_3 {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: "MS Sans Serif"
+}
+.font_4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0e3964; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font_5 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: "Courier New", Courier, mono
+}
+.font_6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #003399; FONT-FAMILY: arial
+}
+.font_6_ar {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #003399; FONT-FAMILY: Tahoma;
+}
+.font_6_ar {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #003399; FONT-FAMILY: Tahoma
+}
+.font_7 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #003399; FONT-FAMILY: tahoma, verdana
+}
+.font_8 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #0e3964; FONT-FAMILY: Tahoma;
+}
+.font_9 {
+	FONT-WEIGHT: 500; FONT-SIZE: 13px; COLOR: #0e3964; FONT-FAMILY: Tahoma
+}
+.font_10 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #0b4c86; FONT-FAMILY: tahoma, verdana
+}
+.graey {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px; COLOR: #666666; font-family:Verdana;
+}
+.graey_ar {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma
+}
+.graey_1 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 14px; COLOR: #666666; font-family:Tahoma;
+}
+.graey_2 {
+	FONT-WEIGHT: 500; FONT-SIZE: 12px; COLOR: #666666
+}
+.font_11 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 13px; COLOR: #003399; FONT-FAMILY: tahoma, verdana
+}
+.font_12 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #bb5400; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font_13 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial
+}
+.font_13_ar {
+	FONT-WEIGHT: lighter; FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Tahoma
+}
+.font_14 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.font_14_ar {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+.font_15 {
+	FONT-WEIGHT: 500; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: tahoma, verdana
+}
+.font_16 {
+	FONT-WEIGHT: 500; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif
+}
+.font_17 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: arial
+}
+.font_17_ar {
+	FONT-WEIGHT: lighter; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+.font_18 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #0b4c86; FONT-FAMILY: arial
+}
+.font_18_ar {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #0b4c86; FONT-FAMILY: Tahoma
+}
+.font_19 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 18px; COLOR: #3d3d3d; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.font_20 {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.font_21 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font_21_ar {
+	FONT-WEIGHT: bolder; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+.font_22 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font_23 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 16px; COLOR: #0066cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.font_23_ar {
+	FONT-WEIGHT: bolder; FONT-SIZE: 16px; COLOR: #0066cc; FONT-FAMILY: Tahoma
+}
+.font_24 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12px; COLOR: #e10404; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

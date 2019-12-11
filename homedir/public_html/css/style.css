@@ -1,0 +1,99 @@
+.font_1{ 
+	font-family:Tahoma; 
+	font-size:13px;
+	color:#FFFFFF;
+}
+.font_2{
+	font-family:Verdana; 
+	font-size:11px;
+	color: #990000;
+}
+.menu{ 
+	float:left; 
+	height:20px; 
+	width:100px;
+	background-color:#000000;
+	color:#FFFFFF; 
+	font-family:Tahoma; 
+	font-size:16px;
+	padding:5px;
+}
+a:link    { color:#325781; font-family:Verdana; text-decoration:none; padding:5px; }  /* unvisited link */
+a:visited { color:#325781; font-family:Verdana; text-decoration:none; padding:5px;}  /* visited link */
+a:hover   { color:#da417a; font-family:Verdana; text-decoration:none; padding:5px; }  /* mouse over link */
+a:active  { color:#da417a; font-family:Verdana; text-decoration:none; padding:5px; }  /* selected link */
+
+ol,ul {list-style:none;}
+
+DIV.part_1{ 
+    /*border:#000000 solid 1px;*/
+	position: relative;
+	float: left;
+	
+}
+DIV.photo_1{
+	position: absolute;
+	left: 0px;
+	top: 0px; 
+}
+
+DIV.part_2{ 
+    /*border:#000000 solid 1px;*/
+	position: relative;
+	float: right;
+	
+}
+DIV.photo_2{
+	position: absolute;
+	left:-199px;
+	top: 233px; 
+}
+DIV.part_3{ 
+    /*border:#000000 solid 1px;*/
+	position: relative;
+	float: right;
+	
+}
+DIV.menu_3{
+	position: absolute;
+	left:-335px;
+	top: 55px; 
+}
+DIV.part_4{ 
+    /*border:#000000 solid 1px;*/
+	position: relative;
+	float: right;
+}
+DIV.menu_4{
+	position: absolute;
+	left:-120px;
+	top: 105px; 
+}
+/*CSS Reset*/
+#container { border:#FFFFFF solid 0px; font-family:Tahoma; font-size:13px;
+	margin:0px;
+	padding:0px; 
+	
+}
+#container ul {
+	height:15px;
+}
+
+/************************************************
+	Round Corners Button Rollover Example 4	
+************************************************/
+
+#container .example4 li {
+	display:inline; 
+	list-style:none; 
+	margin-right:20px;
+}
+#container .example4 li a {
+	-webkit-border-radius:10px;
+}
+#container .example4 li a:hover {
+	background:#308048;
+	border:1px solid #9f4642;
+	color:#fff; 
+	-webkit-border-radius:10px; 
+}

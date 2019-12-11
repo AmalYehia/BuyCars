@@ -1,0 +1,96 @@
+
+/*.menuTitle{ font-weight:bold;}		菜单标题的样式*/
+
+/*主菜单部分样式*/
+
+.rOut{		/*鼠标移走*/
+	color:#22227a;
+	/*background: url(../images/bt_bg_jb2.gif) no-repeat #f6f7f8;*/	
+	background:url(../images/left_menu_out.gif) no-repeat left top;
+	font-size:12px;
+	height:26px;
+	width:193px;
+	line-height:26px;
+	text-indent:19px;
+	cursor:pointer;
+}
+.rOver{		/*鼠标移上，鼠标点击之后*/
+	color:#0C51B7;
+	/*background: url(../images/bt_bg_jb2.gif) no-repeat #f6f7f8;*/	
+	background:url(../images/left_menu_over.gif) no-repeat left top;
+	font-size:12px;
+	font-weight:bold;
+	height:26px;
+	width:193px;
+	line-height:26px;
+	text-indent:20px;
+	cursor:pointer;
+}
+.rClicked{		/*鼠标移上，鼠标点击之后*/
+	color:#0C51B7;
+	/*background: url(../images/bt_bg_jb2.gif) no-repeat #f6f7f8;*/	
+	background:url(../images/left_menu_click.gif) no-repeat left top;
+	font-size:12px;
+	font-weight:bold;
+	height:26px;
+	width:193px;
+	line-height:26px;
+	text-indent:20px;
+	cursor:pointer;
+}
+
+/*子菜单部分样式*/
+.sub_menu_bg{ 
+	border-left:1px solid #d3e7f1; 
+	border-bottom:1px solid #d3e7f1; 
+	border-right:1px solid #d3e7f1; 
+	background:#ffffff;
+	padding-bottom:7px;
+	padding-top:4px;
+	overflow:hidden;
+}
+
+.sOver, .sClicked{		/*鼠标移上，鼠标点击*/
+	background:transparent url(../images/nav_li_icon.gif) no-repeat scroll 12px 8px;
+	cursor:pointer;
+	line-height:20px;
+	text-indent:23px;
+	 
+}
+
+.sOut{		/*鼠标移走*/
+	text-indent: 14px;
+	color: #349ACC;
+	height:28px;
+	background: url(../../images/bt_bg_jb2_4_1.gif) no-repeat #ECF7FF;
+}
+
+.sm_top .sub_menu_bg .sOver a{/*每一块内部的链接*/
+	color:#0C51B7;
+}
+.sm_top .sub_menu_bg a:hover,.sm_top .sub_menu_bg a.curlink{
+	font-weight:bold;
+	color:#fe5400;
+	padding:1px;
+}
+/*
+.menu-buttom{background:url(../images/bt_bg_jb-bottom.gif) no-repeat bottom; height:5px; cursor:default;}
+*/
+
+/* modify left td height*/
+.sOver{height:23px;}
+
+/*menu margintop*/
+.left_main_menu{ width:193px; margin-left:8px; background:url(../images/main_menu_bot.gif) no-repeat bottom left;  padding-bottom:4px;}
+
+/*quick links*/
+
+.left .nav{ width:209px; background:url(images/left_top_bg2.gif) repeat-x; overflow:hidden; border-right:none;}
+.nav .nav_list{ background:url(images/nav_tit_bg.gif) repeat-x left; width:191px;line-height:26px; height:26px; color:#000099; font-weight:bold; font-size:14px; border:1px solid #c7e4eb; border-bottom:1px solid #c4dde9; text-indent:15px; margin-left:8px; }
+
+.nav dl dt a:link,.nav dl dt a:visited{ color:#0c51b7; text-decoration:none; }
+.nav dl dt a:hover{ color:#FE5400; text-decoration:underline;  }
+
+.quick_access_nav{ background:#f6fbfd url(images/main_menu_bot.gif) no-repeat bottom left; border-left:1px solid #d3e7f1; border-right:1px solid #d3e7f1; width:191px; overflow:hidden; margin-left:8px; padding-bottom:0px;}
+.quick_access_nav dl{padding:4px 0 6px 3px; border-bottom:1px solid #d3e7f1;}
+.quick_access_nav dt{ background: url(images/quick_link.gif) no-repeat 7px 7px; text-indent:22px; font-size:12px; line-height:23px; height:23px;}

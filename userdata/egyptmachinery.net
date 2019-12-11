@@ -1,0 +1,29 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/egyptmachinery.net
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/egyptmachinery.net-bytes_log
+documentroot: /home2/egymach/public_html
+group: egymach
+hascgi: 1
+homedir: /home2/egymach
+ip: 192.185.48.219
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home2/egymach/public_html/cgi-bin
+    url: /cgi-bin/
+  - 
+    path: /home2/egymach/public_html/cgi-bin/
+    url: /cgi-bin/
+serveradmin: webmaster@egyptmachinery.net
+serveralias: www.egyptmachinery.net
+servername: egyptmachinery.net
+usecanonicalname: 'Off'
+user: egymach
+userdirprotect: ''

@@ -1,0 +1,30 @@
+2016-02-01T05:26:17+00:00 ERR: HORDE SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: horde_perms  
+	SELECT COUNT(*) FROM horde_perms WHERE perm_name = 'horde' [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:18+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: horde_groups_seq  
+	DROP TABLE "horde_groups_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:18+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: horde_histories_seq  
+	DROP TABLE "horde_histories_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:18+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: horde_perms_seq  
+	DROP TABLE "horde_perms_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:18+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: horde_vfs_seq  
+	DROP TABLE "horde_vfs_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:18+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: horde_muvfs_seq  
+	DROP TABLE "horde_muvfs_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:18+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: imp_sentmail_seq  
+	DROP TABLE "imp_sentmail_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:19+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: ingo_rules_seq  
+	DROP TABLE "ingo_rules_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:19+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: ingo_shares_seq  
+	DROP TABLE "ingo_shares_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:19+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: kronolith_shares_seq  
+	DROP TABLE "kronolith_shares_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:19+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: kronolith_resources_seq  
+	DROP TABLE "kronolith_resources_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:20+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: mnemo_shares_seq  
+	DROP TABLE "mnemo_shares_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:21+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: nag_shares_seq  
+	DROP TABLE "nag_shares_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:22+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: trean_bookmarks_seq  
+	DROP TABLE "trean_bookmarks_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]
+2016-02-01T05:26:23+00:00 ERR: HORDE [horde] SQL QUERY FAILED: SQLSTATE[HY000]: General error: 1 no such table: turba_shares_seq  
+	DROP TABLE "turba_shares_seq" [pid 6628 on line 234 of "/usr/local/cpanel/3rdparty/php/54/lib/php/Horde/Db/Adapter/Pdo/Base.php"]

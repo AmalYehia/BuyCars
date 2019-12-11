@@ -1,0 +1,3 @@
+egymach:$1$/JqAaU.A$Aty.NNFeBvqRJnQqJsE3t0:33299:33301::/home2/egymach:/usr/local/cpanel/bin/jailshell
+ftp::14:50::/home2/egymach/public_ftp:/bin/ftpsh
+egymach_logs:$1$/JqAaU.A$Aty.NNFeBvqRJnQqJsE3t0:33299:33301:egymach:/usr/local/apache/domlogs/egymach:/bin/ftpsh

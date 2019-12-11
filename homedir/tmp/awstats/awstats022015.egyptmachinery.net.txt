@@ -1,0 +1,751 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201502 will be lost/reset.
+# Last config file used to build this data file was /home2/egymach/tmp/awstats/awstats.egyptmachinery.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2682                
+POS_VISITOR 17990               
+POS_DAY 24143               
+POS_DOMAIN 3568                
+POS_LOGIN 4330                
+POS_ROBOT 4485                
+POS_WORMS 4915                
+POS_EMAILSENDER 5046                
+POS_EMAILRECEIVER 5189                
+POS_SESSION 24912               
+POS_SIDER 25114               
+POS_FILETYPES 5324                
+POS_DOWNLOADS 5488                
+POS_OS 5536                
+POS_BROWSER 5704                
+POS_SCREENSIZE 6862                
+POS_UNKNOWNREFERER 6936                
+POS_UNKNOWNREFERERBROWSER 7369                
+POS_ORIGIN 7597                
+POS_SEREFERRALS 7740                
+POS_PAGEREFS 7926                
+POS_SEARCHWORDS 8928                
+POS_KEYWORDS 9127                
+POS_MISC 2345                
+POS_ERRORS 9241                
+POS_CLUSTER 4186                
+POS_SIDER_404 9392                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150301005023 288 57953 12889534857084
+FirstTime 0
+LastTime 20150228223831
+LastUpdate 20150301091205 288 0 287 0 0
+TotalVisits 193                 
+TotalUnique 136                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 156                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 49 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 109 170 4189075 107 133 584358
+1 3 30 1315186 91 139 1493996
+2 14 72 3571515 64 84 616008
+3 30 223 11291845 75 140 1419198
+4 14 117 5605157 117 153 2093404
+5 39 168 6375665 92 118 755888
+6 18 96 3823709 52 73 497138
+7 23 102 4234530 72 98 652309
+8 19 174 8290848 142 171 2017050
+9 33 132 5630993 89 113 703080
+10 92 257 10174066 94 109 413940
+11 11 116 5088603 68 92 628497
+12 28 124 6834147 69 90 539506
+13 12 66 2810867 93 129 887457
+14 26 171 10472393 107 178 1818137
+15 13 66 2959382 94 124 1238899
+16 8 86 4549807 47 65 1052930
+17 11 48 1767683 73 92 783911
+18 11 114 5700743 115 146 934076
+19 10 117 3525043 57 76 515437
+20 11 39 1778200 186 197 2108958
+21 14 87 5928016 83 148 1964984
+22 19 199 5539012 59 84 992246
+23 27 126 5146435 139 187 2159635
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+de 137 143 2168814
+us 99 247 9581716
+il 74 107 2213823
+eg 48 404 13853438
+ru 43 318 16473322
+br 40 483 27512678
+it 16 172 7867961
+cn 14 87 3621471
+nl 14 94 4725088
+in 13 117 5245294
+sa 13 40 1817094
+mu 13 41 1394260
+mx 8 99 5779137
+gb 8 34 1235154
+ua 7 7 95775
+pt 6 86 5290304
+kr 5 84 1686561
+by 5 5 69757
+ph 4 30 1199309
+eu 3 3 37394
+rs 2 15 950963
+es 2 27 1174161
+ec 2 28 1259493
+co 2 27 1655590
+fi 2 2 29882
+tr 0 2 119338
+fr 1 1 13680
+do 2 27 1173546
+gr 2 27 1173546
+au 2 28 1259493
+sv 2 27 1213248
+dz 2 27 1176318
+pk 2 33 2275819
+pe 2 28 1259493
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 514 8975295 20150228210548 0
+spider 243 2720662 20150228234010 0
+googlebot 112 2275344 20150228205728 0
+robot 60 1245568 20150227075254 0
+slurp 27 295562 20150228015742 0
+no_user_agent 22 242176 20150227150227 0
+crawl 2 27369 20150213170401 0
+netcraft 1 13674 20150210213510 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 88 251362 0 0
+php 595 7175112 0 0
+png 18 9305064 0 0
+jpg 545 96336596 0 0
+gif 1654 13534786 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 11
+linuxandroid 203
+blackberry 1
+winlong 5
+winxp 313
+win2000 1
+linuxubuntu 4
+winvista 47
+linux 114
+win7 2005
+macosx 122
+Unknown 85
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 65
+firefox28.0 6
+msie6.0 12
+chrome40.0.2214.94 95
+chrome40.0.2214.115 31
+chrome32.0.1700.72 4
+chrome34.0.1847.137 4
+firefox26.0 17
+chrome28.0.1500.94 203
+chrome40.0.2214.111 193
+chrome39.0.2171.95 29
+firefox18.0 5
+firefox4.0 1
+chrome31.0.1650.57 7
+chrome31.0.1650.63 24
+firefox34.0 1
+safari7.0.1 1
+chrome13.0.752.0 1
+msie8.0 30
+chrome39.0.2171.65 4
+msie7.0 193
+chrome39.0.2171.71 2
+chrome32.0.1700.68 1
+chrome34.0.1847.131 7
+firefox21.0 7
+firefox29.0 4
+firefox3.5.2 4
+safari10.2.0.1803 40
+chrome32.0.1700.107 150
+chrome29.0.1600.1 1
+chrome35.0.1916.114 4
+safari6.0.5 32
+firefox33.0 34
+chrome36.0.1985.143 1068
+firefox25.0 12
+mozilla 142
+firefox14.0.1 10
+safari6.1.1 5
+safari5.1.9 1
+safari6.1 4
+chrome40.0.2214.93 1
+firefox35.0 133
+safari 80
+safari7.0 40
+chrome37.0.2062.124 1
+firefox5.0 1
+firefox4.0.1 2
+chrome38.0.2125.104 29
+chrome29.0.1547.0 1
+chrome12.0.742.91 2
+chrome32.0.1700.41 3
+firefox24.0 1
+opera9.80 7
+firefox6.0.2 2
+chrome10.0.648.204 11
+chrome40.0.2214.85 1
+msie9.0 34
+Unknown 8
+firefox27.0 27
+blackberry 1
+opera9.27 1
+chrome35.0.1916.153 89
+firefox22.0 1
+msie10.0 32
+firefox3.6.28 1
+safari5.1 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/6.0_(compatible) 20150207105838
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.2.0.1803_Mobile_Safari/537.35_ 20150203142604
+Internet_Explorer_6.0 20150202225834
+nutch-1.4/Nutch-1.4 20150221122148
+Mozilla/5.0_(compatible) 20150207105837
+Mozilla/2.0_(compatible;_crw) 20150223061955
+Opera/9.27 20150202055402
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Internet_Explorer_6.0 20150202225834
+nutch-1.4/Nutch-1.4 20150221122148
+python-requests/2.4.3_CPython/2.7.3_Linux/3.2.0-77-virtual 20150228202516
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 227 264
+From1 0 0
+From2 23 23
+From3 59 61
+From4 286 2552
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 17 17
+baidu 2 2
+bing 2 2
+yahoo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://semalt.semalt.com/crawler.php 23 23
+http://buttons-for-website.com 23 23
+http://tattoo33.ru 3 3
+http://www.140online.com/company/C364545/%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D9%84%D9%82%D8%B7%D8%B9%20%D8%BA%D9%8A%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D8%A7%D8%AA%20%D9%88%20%D8%AE%D9%84%D9%81%D8%A7%D8%A4%D9%87/ 2 2
+http://777parts.net/caterpillar/7N8722-AFTERCOOLER+GROUP-WATER/p1062210.html 2 2
+http://www.140online.com/class/pages/En/193/3/General%20Contractors/ 1 1
+http://58.176.217.12/search 1 1
+http://www.140online.com/result.aspx 1 1
+http://polpred.com 1 1
+http://www.140online.com/class/pages/193/%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%20%D8%B9%D8%A7%D9%85%D9%87/2/ 1 1
+http://www.140online.com/Class/615/%D8%A7%D9%88%D9%86%D8%A7%D8%B4%20-%20%D8%B1%D8%A7%D9%81%D8%B9%D8%A7%D8%AA 1 1
+http://yandex.com.tr/gorsel/search 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+used+machinery+in+e+gpyt 2
+egyptianmachinery 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+machinery 2
+in 2
+e 2
+egyptianmachinery 2
+gpyt 2
+used 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 4 72800
+302 1073 0
+206 34 1230917
+406 38 8362
+301 6 623
+404 754 9629250
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 159
+//robots.txt 1 -
+/en/welcome.gif 4 http://www.egyptmachinery.net/en/home.php
+/admin.php 3 -
+/forum/modcp/index.php 1 -
+/admin/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/Admin/fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/hybridauth/hybridauth/install.php 1 -
+/en/news.gif 3 http://www.egyptmachinery.net/en/home.php
+/en/134655413616.jpg 1 http://www.egyptmachinery.net/en/home.php
+/include/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/openemr-4.1.1/library/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/scripts/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/images/uploader/uploadify.css 1 -
+/webadmin/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/en/100_2713(1)(2).jpg 3 http://www.egyptmachinery.net/en/home.php
+/en/register.gif 2 http://www.egyptmachinery.net/en/home.php
+/xmlrpc.php 1 -
+/auth/hybridauth/install.php 1 -
+/media/uploadify/uploadify.css 1 -
+/assets/plugins/tinymce212/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/register.php 4 -
+/stats/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/FCKeditor/editor/filemanager/connectors/test.html 1 -
+/hybridauth/install.php 1 -
+/en/header2.gif 4 http://www.egyptmachinery.net/en/home.php
+/app/webroot/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/magmi/web/magmi.php 1 -
+/assets/uploadify/uploadify.css 1 -
+/admin/fck/editor/filemanager/connectors/uploadtest.html 1 -
+/scripts/uploadify/uploadify.css 1 -
+/administrator/ 2 -
+/includes/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/fckeditor/editor/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp-login.php 3 -
+/en/whatisnew.gif 2 http://www.egyptmachinery.net/en/home.php
+/apps/uploadify/uploadify.css 1 -
+/includes/php-ofc-library/ofc_upload_image.php 1 -
+/cms/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/sites/default/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/filebrowser/uploadify/uploadify.css 1 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/assets/plugins/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/js/uploadify/uploadify.css 1 -
+/public/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/login/hybridauth/install.php 1 -
+/zenphoto/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/wp-includes/wlwmanifest.xml 5 -
+/admin/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/en/bullet_3.gif 4 http://www.egyptmachinery.net/en/home.php
+/js/jquery/uploadify/uploadify.css 1 -
+/media/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/license.txt 1 -
+/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/Fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/plugins/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/manager/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/includes/uploadify/uploadify.css 1 -
+/en/adv.gif 2 http://www.egyptmachinery.net/en/home.php
+//components/com_community/index.html 2 -
+/en/134655424623.jpg 1 http://www.egyptmachinery.net/en/home.php
+/en/forget_p.gif 3 http://www.egyptmachinery.net/en/home.php
+/administrator/index.php 1 -
+/Editor/editor/filemanager/connectors/test.html 2 -
+/php-ofc-library/ofc_upload_image.php 1 -
+/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin_area/charts/ofc-library/ofc_upload_image.php 1 -
+/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/editor/editor 1 -
+/includes/js/plugins/uploadify/uploadify.css 1 -
+/js/uploadify/uploadify.css 1 -
+/uploadify/uploadify.css 1 -
+/home.php 6 -
+/ofc-library/ofc_upload_image.php 1 -
+/public/cms/resources/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/uploadify/uploadify.css 1 -
+/admin/includes/uploadify/uploadify.css 1 -
+/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/robots.txt 345 -
+/Admin/fCKeditor/editor/filemanager/connectors/test.html 2 -
+/js/uploader/uploadify.css 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/media/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/uploader/uploadify.css 1 -
+/customer/account/login 1 http://egyptmachinery.net/customer/account/login
+/scripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/scripts/uploadify/uploadify.css 1 -
+/media/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/en/login.gif 2 http://www.egyptmachinery.net/en/home.php
+/all_manufacture.php 13 http://www.egyptmachinery.net/
+/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/upload/uploadify.css 1 -
+/tinybrowser/readme.txt 1 -
+/static/uploadify/uploadify.css 1 -
+/components/com_wrapper/wrapper.xml 1 -
+/Editor/editor/filemanager/browser/default/connectors/test.html 2 -
+/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/mod/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/editor/editor/filemanager/connectors/uploadtest.html 1 -
+/category.php 110 -
+/community/modcp/index.php 1 -
+/core/uploadify/uploadify.css 1 -
+/js/ofc2/php-ofc-library/ofc_upload_image.php 1 -
+/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/include/fckeditor/editor/ 1 -
+/vbulletin/modcp/index.php 1 -
+/hybridauth-master/hybridauth/install.php 1 -
+/piwik/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/fckeditor/editor 2 -
+/inc/js/uploadify/uploadify.css 1 -
+/admin/editor/editor/filemanager/connectors/uploadtest.html 1 -
+/js/jquery/plugins/uploadify/uploadify.css 1 -
+/editor/filemanager/connectors/uploadtest.html 1 -
+/system/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/app/webroot/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/product_d.php 5 -
+/manufacture_product.php 43 -
+/en/bullet_1.gif 4 http://www.egyptmachinery.net/en/home.php
+/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/app/webroot/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/images/info.gif 2 -
+/forgotpassword.php 4 -
+/tag_products.php 1 -
+/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/photogallery/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/cc/modcp/index.php 1 -
+/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/modcp/index.php 1 -
+/contact_us.php 9 -
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/media/filebrowser/uploadify/uploadify.css 1 -
+/photo/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/en/logo.gif 4 http://www.egyptmachinery.net/en/home.php
+/images/info.jpg 2 -
+/admin/js/uploader/uploadify.css 1 -
+/includes/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/manage/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/admin/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/en/slide1.gif 4 http://www.egyptmachinery.net/en/home.php
+/data/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/modules/mod_sections.xml 1 -
+/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/assets/plugins/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/public/js/uploadify/uploadify.css 1 -
+/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/all_category.php 5 -
+/page.php 18 -
+/lib/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/openemr/library/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 156
+88.198.71.236 100 106 1770581 20150203000927
+82.80.249.157 72 77 1106651 20150207105839
+46.4.113.114 35 35 370864 20150223061955
+197.224.138.119 13 41 1394260 20150223094328
+5.90.109.143 13 40 1817094 20150203142604
+37.78.27.121 13 41 1432224 20150218055209
+208.68.38.202 12 12 164131 20150216122104
+162.243.170.65 12 12 164120 20150207090655
+198.199.74.127 12 12 164113 20150227054026
+69.58.178.58 11 11 122690 20150205234509
+198.252.44.14 11 11 150504 20150228064202
+217.166.59.195 10 62 2418243 20150205083342
+177.69.129.33 9 36 1312999 20150212062523
+86.137.132.52 8 34 1235154 20150220071823
+59.90.181.40 7 60 2390931 20150219035425
+84.205.103.156 7 33 1710612 20150201074629
+95.212.157.225 6 7 115562 20150203030550
+95.212.158.115 6 31 1187187 20150202034902
+217.69.133.169 5 5 68412 20150224102731
+79.47.90.76 5 32 1291101 20150205045933
+72.46.136.178 5 5 68406 20150228134123
+121.190.174.60 5 84 1686561 20150225195644
+41.45.246.181 4 28 395102 20150218230843
+120.59.146.2 4 30 1680817 20150213083339
+188.234.48.194 4 31 1198950 20150210135706
+41.44.228.234 1 1 13680 20150220073006
+91.226.58.55 1 1 13680 20150223100826
+197.135.255.223 2 31 1176318 20150217113833
+94.131.14.5 1 1 13674 20150223040958
+187.106.214.124 3 31 1811122 20150217190900
+186.150.195.130 2 27 1173546 20150209181058
+82.80.234.142 0 4 7391 
+94.210.196.206 2 30 2279492 20150222122617
+41.45.99.248 0 2 0 
+198.204.252.211 1 1 13679 20150203004549
+179.31.241.233 2 37 3327694 20150224034459
+197.135.72.54 0 4 0 
+192.114.71.13 2 20 899339 20150207111428
+186.204.42.103 2 29 1571985 20150204035951
+41.45.225.40 0 2 0 
+189.58.131.127 2 29 1550445 20150222113507
+82.80.249.164 0 1 92591 
+197.132.141.252 3 29 1191337 20150208054441
+46.190.27.106 2 27 1173546 20150210054307
+191.178.196.205 2 27 1655590 20150223221408
+61.135.190.100 1 1 13680 20150207022605
+187.147.101.207 2 28 1740922 20150210091732
+122.53.114.182 3 29 1185629 20150202001026
+70.32.38.82 3 3 41049 20150202225834
+41.45.53.235 1 25 618571 20150218230842
+185.52.24.71 2 2 23715 20150202055402
+179.99.243.106 2 28 1259493 20150212103854
+95.10.38.63 0 1 59669 
+81.32.201.232 2 27 1174161 20150218185809
+167.114.162.102 1 1 13680 20150223101902
+115.167.77.27 0 2 442242 
+41.45.212.47 3 37 40962 20150219071958
+65.55.210.104 0 2 3416 
+192.187.99.195 1 1 13674 20150220061424
+111.13.102.5 0 1 59 
+197.39.150.77 2 27 1655590 20150221041921
+176.123.6.127 1 1 13680 20150226231103
+186.222.32.151 2 27 1174161 20150214145907
+177.222.224.9 2 38 3631946 20150211215517
+199.30.24.136 0 7 640487 
+207.46.13.110 2 2 23661 20150216214639
+190.63.8.67 2 28 1259493 20150228083003
+117.78.13.18 1 1 13680 20150221122148
+179.176.242.118 2 28 1740922 20150207164716
+61.135.190.102 1 1 13680 20150212100350
+107.132.150.190 2 29 2014327 20150202100229
+89.154.127.84 2 28 1740922 20150216142223
+199.30.25.175 1 26 1199568 20150224231246
+179.197.79.240 2 30 1797448 20150228124211
+202.46.57.92 1 1 10004 20150210173545
+208.90.57.196 1 1 13680 20150220192459
+190.150.186.56 2 27 1213248 20150222161604
+186.237.32.50 2 27 1174161 20150223073337
+189.228.42.230 2 13 945565 20150203213253
+115.167.77.22 0 2 300679 
+65.55.210.96 1 2 16606 20150217010728
+93.47.18.214 2 28 1261650 20150223154559
+62.33.244.157 3 3 41039 20150209151206
+200.178.138.130 2 27 1176318 20150210095912
+94.131.14.4 1 1 13680 20150228223831
+65.55.210.73 1 1 13641 20150217022126
+192.99.166.232 2 2 29882 20150208230110
+54.244.247.32 2 2 27369 20150228202515
+197.246.1.180 4 31 1682567 20150228084710
+178.125.96.215 4 4 56078 20150223150900
+195.211.154.168 1 1 13689 20150209082925
+41.45.222.205 0 2 0 
+91.200.12.51 1 1 13689 20150215223836
+96.227.124.38 1 1 13679 20150216052022
+89.216.209.206 2 15 950963 20150224125122
+217.12.201.60 1 1 13689 20150226154529
+123.126.113.104 4 49 2305866 20150204221026
+59.101.3.115 2 28 1259493 20150215210425
+151.66.167.221 2 27 1176318 20150221051012
+117.21.176.66 1 1 13680 20150206173338
+202.46.62.108 1 1 13680 20150209202459
+123.125.71.53 0 1 34898 
+194.63.142.101 1 1 13679 20150202220751
+198.178.124.47 2 2 27354 20150222143630
+41.68.41.192 2 27 1191708 20150222034325
+46.229.170.197 2 2 27353 20150225033336
+89.153.128.8 2 29 2014327 20150207180740
+199.30.25.223 1 7 30948 20150216224800
+121.16.64.174 3 29 1188565 20150206233800
+24.34.161.121 1 1 13680 20150222070915
+187.5.62.239 2 29 1550445 20150213124723
+122.170.24.59 2 27 1173546 20150212045954
+189.26.194.166 2 29 1571985 20150221163429
+185.44.79.76 1 1 13679 20150206121632
+45.56.93.217 3 29 1666530 20150202205741
+108.2.142.103 4 31 1217130 20150203140658
+82.80.244.58 0 2 2370 
+179.96.26.57 2 27 1174161 20150221044125
+85.99.59.102 0 1 59669 
+175.110.221.192 2 27 1174161 20150204022906
+177.138.22.237 2 28 1277040 20150218060025
+199.119.143.205 1 1 13680 20150209112941
+151.65.183.220 2 28 1298580 20150207101628
+178.125.54.135 1 1 13679 20150226225102
+186.229.10.2 2 27 1213248 20150222111525
+189.223.13.251 2 30 1815610 20150206235829
+190.223.45.210 2 28 1259493 20150206100743
+179.214.164.57 2 28 1298580 20150223181030
+195.154.226.90 1 1 13680 20150205190244
+177.177.204.67 2 27 1176318 20150218080432
+189.50.144.13 2 29 1532283 20150220133400
+179.218.148.1 2 29 1535055 20150226104902
+199.30.228.135 2 27 1655590 20150206220541
+54.202.77.147 2 3 30319 20150228202517
+41.98.91.19 2 27 1176318 20150205050859
+115.167.77.23 0 1 273405 
+151.25.226.44 2 27 1655590 20150223170502
+195.223.201.226 3 30 1184722 20150210032157
+91.202.135.20 1 1 13674 20150210162558
+176.9.50.42 2 2 27369 20150208185810
+177.185.112.164 2 28 1298580 20150224011144
+186.221.76.189 2 42 4489642 20150222143648
+104.236.225.20 1 1 13680 20150207035004
+167.114.108.230 1 1 13680 20150219172431
+54.190.220.60 2 3 30325 20150228202517
+202.46.62.46 1 1 13679 20150210171517
+115.167.77.25 0 1 85332 
+41.45.200.4 0 27 0 
+41.233.96.3 3 29 1191337 20150215070006
+82.80.244.52 0 1 7792 
+179.213.81.211 2 29 1571985 20150205155759
+89.181.101.224 2 29 1535055 20150208103142
+82.80.244.57 0 2 97689 
+197.42.151.168 2 27 1655590 20150218030125
+187.183.97.161 2 28 1277040 20150227081500
+41.45.102.228 2 4 27315 20150220170435
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20150201 9 35 1734278 3
+20150202 24 129 6240361 11
+20150203 126 199 5939280 6
+20150204 11 114 6194728 7
+20150205 31 162 6594017 7
+20150206 14 119 5983974 9
+20150207 95 207 7469141 9
+20150208 10 63 2788687 7
+20150209 9 34 1269314 6
+20150210 20 150 6555484 12
+20150211 6 42 3678421 5
+20150212 17 95 3797072 7
+20150213 7 60 3244941 3
+20150214 4 29 1194148 3
+20150215 10 62 2509611 7
+20150216 20 59 2637591 7
+20150217 12 68 3111685 8
+20150218 30 271 7737687 11
+20150219 12 66 2486817 6
+20150220 17 84 2866933 8
+20150221 10 112 5601743 6
+20150222 15 185 11975142 9
+20150223 32 187 8560603 12
+20150224 11 110 6831537 6
+20150225 7 86 1713909 3
+20150226 5 32 1576103 4
+20150227 14 40 1441153 2
+20150228 17 100 4868560 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 1
+15mn-30mn 3
+30s-2mn 18
+2mn-5mn 4
+0s-30s 166
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/en/home.php 180 2375965 150 62
+/en/product.php 136 1367079 16 23
+/en/all_manufacture.php 102 1391382 4 67
+/en/manufacture_product.php 74 741953 14 13
+/en/page.php 27 276018 2 7
+/en/contact_us.php 21 295071 1 7
+/en/home.php/category.php 9 123127 0 3
+/en/register.php 7 104587 2 3
+/en/home.php/page.php 6 82078 0 0
+/en/all_category.php 5 68795 1 2
+/en/forgotpassword.php 4 51100 1 1
+/en/home.php/manufacture_product.php 3 41040 0 0
+/en/home.php/contact_us.php 3 41049 0 0
+/en/home.php/home.php 3 41034 0 0
+/en/home.php/register.php 3 41039 0 0
+/en/home.php/product_d.php 3 41040 0 0
+/en/product_d.php 3 40119 0 0
+//en/all_manufacture.php 2 27282 2 2
+/en/terms_of_agreement.php 1 1599 0 0
+/en/search.php 1 9972 0 1
+/en/dynamicimage.php 1 103 0 1
+//en/home.php 1 13680 0 1
+END_SIDER

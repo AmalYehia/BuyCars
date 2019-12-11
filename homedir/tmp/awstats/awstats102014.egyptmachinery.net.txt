@@ -1,0 +1,565 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201410 will be lost/reset.
+# Last config file used to build this data file was /home2/egymach/tmp/awstats/awstats.egyptmachinery.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2685                
+POS_VISITOR 10119               
+POS_DAY 14367               
+POS_DOMAIN 3526                
+POS_LOGIN 4125                
+POS_ROBOT 4280                
+POS_WORMS 4680                
+POS_EMAILSENDER 4811                
+POS_EMAILRECEIVER 4954                
+POS_SESSION 14885               
+POS_SIDER 15091               
+POS_FILETYPES 5089                
+POS_DOWNLOADS 5298                
+POS_OS 5346                
+POS_BROWSER 5471                
+POS_SCREENSIZE 6078                
+POS_UNKNOWNREFERER 6152                
+POS_UNKNOWNREFERERBROWSER 6530                
+POS_ORIGIN 6767                
+POS_SEREFERRALS 6909                
+POS_PAGEREFS 7084                
+POS_SEARCHWORDS 7770                
+POS_KEYWORDS 7945                
+POS_MISC 2348                
+POS_ERRORS 8031                
+POS_CLUSTER 3981                
+POS_SIDER_404 8181                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141101001523 1 0 10184842825206
+FirstTime 20141013083928
+LastTime 20141031215411
+LastUpdate 20141101234947 1 0 0 0 0
+TotalVisits 97                  
+TotalUnique 82                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 115                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 37 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 1 7792 89 98 1326725
+1 6 82 4104825 64 79 519053
+2 2 4 88076 62 74 486750
+3 36 120 4460509 70 88 1067105
+4 161 266 6511395 114 165 2869048
+5 16 94 4512848 70 90 1416105
+6 9 61 3111144 90 105 785143
+7 5 36 1642778 79 84 712613
+8 4 32 2088429 61 77 1613613
+9 10 86 3625910 117 140 2568019
+10 11 92 4194626 108 126 1683194
+11 42 121 5557520 117 129 1109927
+12 9 10 147415 52 60 492697
+13 5 59 2651998 58 70 618939
+14 8 85 3719030 106 117 716807
+15 2 28 1233830 37 44 422210
+16 7 18 100445 95 114 871391
+17 7 8 79329 123 141 1552979
+18 19 19 210250 48 61 1546416
+19 20 45 1353443 40 49 731860
+20 39 89 2815933 69 83 1579920
+21 31 180 2451057 64 92 1017941
+22 2 27 1213248 57 74 513925
+23 11 11 117242 63 90 915660
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+fi 103 103 1057332
+eg 102 160 2852156
+cn 93 189 5149725
+tw 39 97 2912303
+in 29 57 1472054
+br 23 283 14094840
+ru 10 126 7335523
+kr 8 139 1351885
+us 8 65 3393665
+it 8 109 5280952
+ua 6 7 79635
+co 6 77 3520351
+ca 4 4 3012
+nl 3 3 28131
+ar 3 29 1260246
+rs 2 2 23683
+es 2 27 1655590
+ro 2 29 1550445
+id 2 27 1176318
+ie 2 3 196109
+hu 2 2 20175
+mn 2 27 1213248
+de 2 2 13680
+fr 1 1 0
+tr 0 6 358014
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 531 16832145 20141031220344 0
+bot[\s_+:,\.\;\/\\-] 201 2075413 20141031181820 0
+spider 106 975314 20141031215808 0
+slurp 33 358115 20141026104137 0
+no_user_agent 10 123870 20141030203629 0
+robot 6 25623 20141031142211 0
+msnbot\-media 1 2448 20141018081737 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 43 112670 0 0
+png 7 3618636 0 0
+cgi 1 3275 0 0
+php 458 3954671 0 0
+html 1 0 0 0
+jpg 238 42317675 0 0
+Unknown 2 17802 0 0
+gif 824 5974343 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 9
+winxp 235
+winlong 6
+linux 5
+winvista 130
+win7 1144
+macosx 3
+Unknown 42
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 34
+chrome37.0.2062.124 2
+msie6.0 32
+firefox28.0 1
+firefox5.0 1
+chrome38.0.2125.104 1
+android 9
+firefox26.0 27
+firefox4.0 2
+firefox18.0 1
+chrome38.0.2125.101 2
+chrome38.0.2125.111 123
+chrome36.0.1985.125 7
+chrome31.0.1650.63 59
+curl 2
+firefox3.5.3 1
+opera9.80 2
+msie8.0 63
+msie7.0 1
+chrome10.0.648.204 1
+msie9.0 36
+chrome37.0.2062.122 1
+Unknown 36
+firefox11.0 1
+firefox32.0 1
+chrome28.0.1500.71 2
+chrome32.0.1700.107 60
+firefox33.0 129
+chrome36.0.1985.143 525
+mozilla 304
+chrome35.0.1916.153 90
+msie10.0 27
+chrome31.0.1650.16 2
+chrome27.0.1453.116 21
+safari 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20141025165737
+visionutils/0.2 20141016045357
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20141030171623
+Mozilla/4.0_(compatible;_Synapse) 20141027162116
+nutch-1.4/Nutch-1.4 20141018065722
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20141025165737
+visionutils/0.2 20141016045357
+nutch-1.4/Nutch-1.4 20141018065722
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 297 330
+From1 0 0
+From2 4 13
+From3 32 39
+From4 129 1192
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 3 3
+bing 1 1
+yandex 0 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 15
+http://semalt.semalt.com/crawler.php 14 14
+http://buttons-for-website.com 5 5
+http://45177409.semalt.com/crawler.php 4 4
+http://domainsigma.com/whois/egyptmachinery.net 2 2
+http://58.123.102.99/url 1 1
+http://zverokruh-shop.cz 1 1
+http://deanchristoffersen.com 1 1
+http://mercouris.gr 1 1
+http://martinezayala.com 1 1
+http://polpred.com 1 1
+http://agenziainvestigativa-ancona.it 1 1
+http://yandex.com.tr/gorsel/search 0 4
+http://www.yandex.com.tr/gorsel/ 0 1
+http://yandex.ua/images/search 0 1
+http://www.yandex.com.tr/gorsel/search 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+egypt+tractor+market 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+market 1
+tractor 1
+egypt 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 2 36400
+302 844 0
+206 42 1262909
+406 18 4068
+404 417 5341024
+301 2 631
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 71
+/changecurrency.php 1 -
+/cart/include/version.php 1 -
+/robots.txt 161 -
+/buy/include/version.php 1 -
+/featuredseller.php 1 -
+/admin.php 3 -
+/wordpress/wp-login.php 1 -
+/all_manufacture.php 3 -
+/shop-view.php 15 -
+/myshop.php 1 -
+/316 2 -
+/en/tools/rss.aspx 1 -
+/xmlrpc.php 1 -
+/en/wp-login.php 1 -
+/help-seller.php 1 -
+/friends/friends_css.css 1 -
+/category.php 49 -
+/include/version.php 8 -
+/en/CHANGELOG.txt 1 -
+/administrator/ 2 -
+/~ali55407/confirme/your/compte/ 5 http://www.egyptmachinery.net/~ali55407/confirme/your/compte/
+/blog/wp-login.php 1 -
+/contactus.php 1 -
+/friends/friends_js.js 1 -
+/video.php 2 -
+/wp-login.php 3 -
+/site/wp-login.php 1 -
+/recommended.php 1 -
+/misc/drupal.js 1 -
+/en/archiver 1 -
+/events.php 1 -
+/product_d.php 3 -
+/en/wp-content 1 -
+/manufacture_product.php 18 -
+/24 3 -
+/843 2 -
+/community.php 2 -
+/wp-login/ 1 -
+/fblogin.php 1 -
+/item.php 58 -
+/store/include/version.php 1 -
+/downloader/index.php 1 -
+/forsale.php 2 -
+/en/readme.html 1 -
+/en/changelog.txt 1 -
+/order/include/version.php 1 -
+/contact_us.php 2 -
+/wp/wp-login.php 1 -
+/agreement.php 1 -
+/en/loader_frame.html 1 -
+/section/wp-login.php 1 -
+/CHANGELOG.txt 2 -
+/privacy.php 1 -
+/n_searchbycountry.php 2 -
+/xcart/include/version.php 1 -
+/images/info.jpg 5 http://www.egyptmachinery.net/en/register.php
+/en/license.txt 1 -
+/en/help.aspx 1 -
+/administrator/index.php 2 https://search.yahoo.com/seaach=dfs346ah
+/userinfo.php 1 -
+/signup.php 1 -
+/all_category.php 3 -
+/page.php 5 -
+/848 3 -
+/market/include/version.php 1 -
+/home.php 6 -
+/en/wp-cron.php 1 -
+/849 3 -
+/en/robots.txt 1 -
+/mostviewed.php 1 -
+/shop/include/version.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 115
+192.99.149.88 101 101 1057332 20141021230216
+41.131.160.17 53 76 1185686 20141016045404
+41.38.82.253 45 52 455787 20141016045405
+220.130.64.142 38 96 2898614 20141031042528
+183.22.250.65 34 34 182705 20141027043635
+112.64.227.114 30 30 162695 20141029113044
+115.112.162.2 29 57 1472054 20141029051004
+106.248.47.243 8 138 1292216 20141029211256
+134.249.141.83 4 4 3012 20141013125002
+196.218.129.204 4 32 1210683 20141018072316
+124.72.140.173 4 30 1201343 20141022032014
+124.129.203.60 3 29 1227975 20141031022750
+46.229.170.197 2 2 14442 20141031075511
+27.123.213.166 2 27 1213248 20141019200233
+69.12.78.151 2 2 25618 20141016063215
+191.37.48.62 2 23 1133557 20141018114448
+191.255.158.9 2 27 1173546 20141026141226
+109.69.9.38 2 27 1655590 20141021014415
+212.83.1.84 2 27 1173546 20141028051759
+177.157.107.101 2 27 1176318 20141024105348
+190.225.193.195 2 28 1259493 20141024090917
+179.111.95.81 2 33 2911725 20141026111838
+36.85.29.64 2 27 1176318 20141021092046
+88.150.209.18 2 2 23683 20141027162116
+192.99.40.137 2 2 0 20141026101448
+85.113.58.138 1 1 13689 20141022145747
+123.125.71.27 1 1 13679 20141029202816
+188.40.54.199 1 1 13680 20141023025204
+162.244.33.8 1 1 753 20141013110445
+89.248.160.150 1 1 13689 20141018111416
+202.46.48.44 1 1 13674 20141021130901
+173.252.105.118 0 2 517007 
+220.181.108.119 1 1 10026 20141028124306
+220.181.108.159 1 1 13641 20141028124307
+95.189.98.227 0 1 59669 
+188.56.20.128 0 1 59669 
+217.69.133.169 1 1 13680 20141023112601
+189.98.182.250 1 2 16645 20141022172631
+173.252.113.119 0 1 7792 
+220.181.108.99 1 1 13674 20141029202817
+199.30.25.26 1 26 1199568 20141025225759
+68.71.44.10 1 1 753 20141014104119
+183.60.244.44 1 1 13674 20141031215411
+95.8.188.94 0 2 119338 
+62.210.99.27 1 1 0 20141023211744
+109.188.125.56 0 1 59669 
+123.125.71.47 1 1 10677 20141028124304
+220.181.108.185 1 1 10500 20141028124304
+219.134.117.89 2 2 27360 20141028165532
+173.252.120.119 0 1 168746 
+179.97.69.4 2 27 1173546 20141029190717
+173.252.105.116 0 2 170305 
+186.214.139.22 2 28 1259493 20141030135735
+88.205.206.153 0 1 59669 
+217.194.255.158 0 1 59669 
+5.9.158.75 1 1 0 20141014064538
+177.125.25.26 2 27 1655590 20141022053824
+220.181.108.108 1 1 13680 20141028124304
+173.252.105.112 0 3 8234 
+88.247.186.150 0 1 59669 
+89.133.86.181 2 2 20175 20141027161032
+178.46.159.77 0 1 59669 
+66.249.93.3 0 1 7792 
+173.252.105.115 0 2 87014 
+158.85.89.4 2 2 27360 20141030171623
+173.252.105.114 0 4 181448 
+173.252.105.113 0 1 2448 
+198.252.44.7 1 1 13674 20141030232809
+190.172.151.109 1 1 753 20141015172328
+173.252.120.115 0 1 516948 
+176.102.38.75 2 2 16954 20141028235655
+176.120.205.196 0 1 59669 
+173.252.74.114 0 2 254078 
+31.13.110.122 1 1 13674 20141016045352
+89.114.146.216 2 29 1550445 20141027031614
+179.178.226.140 2 29 1571985 20141022103904
+121.152.76.38 0 1 59669 
+173.252.120.114 0 1 168746 
+121.204.173.84 2 27 1176318 20141022010138
+173.252.105.119 0 1 1781 
+187.62.51.250 2 29 2014327 20141030080611
+87.19.100.38 2 27 1655590 20141029063521
+78.173.254.131 0 1 59669 
+123.125.71.84 1 1 14941 20141028124304
+177.139.218.147 1 1 753 20141014095636
+79.59.79.132 2 27 1174161 20141024063929
+220.202.128.83 2 2 27354 20141026085028
+201.95.8.149 2 28 1258878 20141023144748
+95.27.140.151 0 1 59669 
+177.158.241.184 2 29 1532898 20141026070044
+177.188.13.242 2 27 1174161 20141021155139
+123.125.71.39 1 1 12775 20141028124304
+187.58.100.231 2 29 1532283 20141031054540
+211.162.34.195 2 2 27359 20141023105719
+173.252.113.114 0 1 1781 
+91.202.111.84 0 1 59669 
+201.42.77.194 2 28 1259493 20141021111849
+31.13.110.123 1 2 182435 20141025165735
+173.252.113.117 0 2 3411 
+117.78.13.18 1 1 13680 20141018065722
+116.254.200.34 2 21 961995 20141019211312
+82.222.95.16 0 1 59669 
+79.49.126.102 2 28 1259493 20141018132737
+187.15.103.112 2 27 1213248 20141031141239
+187.7.51.199 1 1 753 20141014113014
+176.108.241.159 0 1 59669 
+173.252.113.112 0 1 1682 
+173.252.113.116 0 2 3919 
+68.71.44.11 1 1 753 20141014104310
+99.229.45.195 2 2 1506 20141013090609
+63.216.156.60 1 1 13680 20141018052652
+191.249.24.12 2 27 1213248 20141017203136
+195.120.76.30 2 27 1191708 20141029102324
+173.252.113.113 0 4 9880 
+220.129.8.187 1 1 13689 20141017203209
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20141013 10 10 10052 7
+20141014 6 7 63434 6
+20141015 1 2 60422 1
+20141016 103 181 5219012 6
+20141017 3 28 1226937 2
+20141018 9 60 2530290 6
+20141019 54 98 2703530 3
+20141020 4 4 48256 1
+20141021 55 157 5818941 8
+20141022 12 116 5635570 6
+20141023 7 33 1313597 6
+20141024 7 84 3683321 4
+20141025 2 39 1301391 2
+20141026 9 92 5645523 6
+20141027 40 70 1956015 4
+20141028 12 39 1368286 11
+20141029 75 310 7094500 8
+20141030 6 59 3301174 4
+20141031 47 185 7018821 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 2
+2mn-5mn 2
+30s-2mn 3
+15mn-30mn 3
+0s-30s 84
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/en/home.php 176 1133762 78 41
+/en/product.php 91 692737 1 7
+/en/all_manufacture.php 60 818460 3 34
+/en/manufacture_product.php 41 410543 1 1
+/en/page.php 37 318846 5 4
+/en/contact_us.php 13 154561 0 2
+/en/register.php 10 135570 3 2
+/en/account/addpictures.php 9 93684 0 0
+/en/dynamicimage.php 5 2474 0 0
+/en/all_category.php 5 68795 1 1
+/en/forgotpassword.php 3 38325 1 1
+/en/account/my_account.php 3 29424 0 0
+/en/search.php 2 20175 1 1
+/webmail 2 17802 1 1
+/en/product_d.php 2 26746 0 0
+/cgi-sys/defaultwebpage.cgi 1 3275 1 1
+/~ali55407/confirme/your/compte/ 1 0 1 1
+/en/register_complete.php 1 10569 0 0
+END_SIDER

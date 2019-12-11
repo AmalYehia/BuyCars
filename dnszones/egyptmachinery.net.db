@@ -1,0 +1,43 @@
+; cPanel first:11.42.1.26 (update_time):1454293941 11.42.1.26: Cpanel::ZoneFile::VERSION:1.3 hostname:gator4132.hostgator.com latest:11.48.5.3
+; Zone file for egyptmachinery.net
+$TTL 14400
+@      86400	IN      SOA     ns8263.hostgator.com. dnsadmin.gator4132.hostgator.com. (
+		2016020100	; serial, todays date+todays
+		86400		; refresh, seconds
+		7200		; retry, seconds
+		3600000		; expire, seconds
+		86400 )		; minimum, seconds
+
+egyptmachinery.net. 86400 IN NS ns8263.hostgator.com.
+egyptmachinery.net. 86400 IN NS ns8264.hostgator.com.
+
+
+egyptmachinery.net. IN A 192.185.48.219
+
+localhost.egyptmachinery.net. IN A 127.0.0.1
+
+egyptmachinery.net. IN MX 0 egyptmachinery.net.
+
+mail IN CNAME egyptmachinery.net.
+www IN CNAME egyptmachinery.net.
+ftp IN CNAME egyptmachinery.net.
+
+cpanel IN CNAME egyptmachinery.net.
+webmail IN CNAME egyptmachinery.net.
+
+egyptmachinery.net. IN TXT "v=spf1 a mx include:websitewelcome.com ~all"
+webdisk IN A 192.185.48.219
+whm IN A 192.185.48.219
+autoconfig IN A 192.185.48.219
+autodiscover IN A 192.185.48.219
+_autodiscover._tcp IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+cpcalendars IN A 192.185.48.219
+_caldav._tcp IN SRV 0 0 2079 gator4132.hostgator.com.
+_caldavs._tcp IN SRV 0 0 2080 gator4132.hostgator.com.
+_carddav._tcp IN SRV 0 0 2079 gator4132.hostgator.com.
+_carddavs._tcp IN SRV 0 0 2080 gator4132.hostgator.com.
+_caldav._tcp IN TXT path=/
+_caldavs._tcp IN TXT path=/
+_carddav._tcp IN TXT path=/
+_carddavs._tcp IN TXT path=/
+cpcontacts IN A 192.185.48.219

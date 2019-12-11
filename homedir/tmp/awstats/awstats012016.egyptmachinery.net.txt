@@ -1,0 +1,1332 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201601 will be lost/reset.
+# Last config file used to build this data file was /home2/egymach/tmp/awstats/awstats.egyptmachinery.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2692                
+POS_VISITOR 25336               
+POS_DAY 39404               
+POS_DOMAIN 3607                
+POS_LOGIN 4318                
+POS_ROBOT 4473                
+POS_WORMS 5042                
+POS_EMAILSENDER 5173                
+POS_EMAILRECEIVER 5316                
+POS_SESSION 40267               
+POS_SIDER 40477               
+POS_FILETYPES 5451                
+POS_DOWNLOADS 5667                
+POS_OS 5715                
+POS_BROWSER 5998                
+POS_SCREENSIZE 7173                
+POS_UNKNOWNREFERER 7247                
+POS_UNKNOWNREFERERBROWSER 7651                
+POS_ORIGIN 8051                
+POS_SEREFERRALS 8195                
+POS_PAGEREFS 8383                
+POS_SEARCHWORDS 9304                
+POS_KEYWORDS 9476                
+POS_MISC 2355                
+POS_ERRORS 9555                
+POS_CLUSTER 4174                
+POS_SIDER_404 9711                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160201001406 10 2006 9451148168295
+FirstTime 20160101002537
+LastTime 20160131233234
+LastUpdate 20160201221555 10 0 9 0 0
+TotalVisits 1436                
+TotalUnique 326                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 358                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 53 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 69 92 2948361 135 204 1304152
+1 72 96 3051000 181 211 933100
+2 73 151 7062387 212 306 3460492
+3 67 119 4956489 205 338 2134763
+4 107 160 5526703 278 317 1762316
+5 93 145 5169204 208 306 1739641
+6 67 72 1170768 139 164 1162767
+7 79 182 9143059 190 723 7736673
+8 79 154 7093478 166 671 8206551
+9 68 95 3192292 195 231 967855
+10 53 54 813724 189 216 1232719
+11 116 140 3344354 207 240 975132
+12 59 62 999933 226 270 1591176
+13 57 123 3022840 922 962 7609283
+14 56 79 3230600 189 226 1444228
+15 68 92 2921557 316 402 5889229
+16 87 156 7086008 166 203 916108
+17 66 67 971879 210 237 857860
+18 72 95 2957118 570 851 8995400
+19 73 99 3041341 129 246 1689107
+20 83 112 3153435 223 258 1502266
+21 66 107 3220276 289 348 6222630
+22 66 103 2922936 156 205 5333281
+23 60 62 1434599 163 198 2440534
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+cn 1421 1526 27938556
+us 99 277 13830891
+eg 48 282 18454464
+de 45 45 403674
+ru 43 76 2923366
+ge 18 18 43344
+tr 11 89 6423837
+gb 9 33 2160776
+nl 8 35 2147252
+bh 7 41 2098599
+gr 6 32 2098704
+kr 6 54 4028842
+it 6 29 2059517
+zz 6 6 57954
+ca 5 31 2548021
+ua 3 4 74696
+tw 3 19 349250
+fr 2 2 28362
+ro 2 2 22777
+il 1 1 14181
+md 1 1 8596
+jp 1 1 14181
+az 1 1 8596
+dk 1 1 14181
+ch 1 1 14181
+pt 0 1 131712
+in 0 1 62421
+la 0 1 62421
+pk 0 1 131712
+dz 0 1 62421
+lk 0 1 62421
+se 1 2 76602
+iq 0 1 62421
+lu 1 1 15412
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+spider 878 8028843 20160131134622 0
+bot[\s_+:,\.\;\/\\-] 703 14836956 20160131050104 0
+googlebot 214 1988298 20160131235949 0
+crawl 123 1085467 20160124071354 0
+bingpreview 59 4056374 20160128160041 0
+linkwalker 58 493100 20160119134132 0
+googlebot\-image 45 455819 20160131020645 0
+slurp 40 176841 20160128171232 0
+[\s_+:,\.\;\/\\-]bot 13 64973 20160122211611 0
+no_user_agent 4 43390 20160131162231 0
+netcraft 1 14181 20160111165350 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 80 235874 0 0
+png 32 2232651 0 0
+php 1748 23411259 0 0
+html 2 18510 0 0
+jpg 152 61064512 0 0
+js 6 50992 0 0
+Unknown 6 53886 0 0
+gif 591 1366657 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linuxandroid 24 20
+blackberry 1 1
+winxp 1518 1376
+winlong 59 59
+winphone 1 0
+ios_iphone 19 11
+macosx9 9 9
+win8 42 19
+ios_ipad 66 8
+java 1 1
+winnt 67 12
+linux 69 39
+win7 494 148
+macosx4 1 1
+win8.1 203 33
+Unknown 43 19
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 59
+msie6.0 35 35
+safari7.0 1 0
+safari7.0.3 2 2
+chrome40.0.2214.115 9 9
+android 21 20
+chrome5.0.375.99 1 1
+firefox3.6.6 1 1
+firefox4.0 2 2
+chrome39.0.2171.95 2 2
+chrome36.0.1985.125 5 5
+firefox34.0 41 15
+chrome31.0.1650.63 52 5
+chrome31.0.1650.48 10 5
+msie8.0 103 80
+chrome33.0.0.0 1 0
+firefox6.0.2 1307 1307
+firefox13.0.1 1 1
+firefox43.0 26 2
+chrome41.0.2272.101 1 1
+chrome47.0.2526.111 209 28
+chrome38.0.2125.122 1 0
+msie7.0 12 12
+chrome32.0.1653.0 50 4
+firefox40.1 6 6
+chrome37.0.2062.120 14 14
+chrome10.0.648.204 8 8
+safari8.0 13 6
+msie9.0 60 5
+Unknown 31 8
+chrome49.0.2623.0 27 3
+firefox27.0 1 1
+firefox11.0 1 0
+chrome30.0.0.0 2 0
+blackberry 1 1
+chrome45.0.2454.99 1 0
+firefox42.0 1 1
+chrome48.0.2560.0 29 6
+firefox21.0 5 5
+firefox3.6.2 1 1
+firefox29.0 2 2
+opera9.27 9 9
+firefox3.5.2 9 9
+chrome46.0.2490.80 28 3
+msie11.0 99 19
+safari9.0 26 2
+chrome36.0.1985.143 2 2
+chrome47.0.2526.106 112 15
+chrome45.0.2454.101 24 2
+mozilla 6 6
+firefox14.0.1 10 10
+msie10.0 17 16
+chrome44.0.2403.89 27 3
+firefox6.0 8 8
+safari5.1 5 5
+chrome46.0.2490.86 41 12
+chrome41.0.2228.0 11 11
+chrome48.0.2564.97 38 10
+firefox15.0.1 1 0
+safari 48 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Moniterra.com 20160127001232
+Python-urllib/2.7 20160106082743
+Yandex_Search_Plugin_Android/302 20160118131538
+nutch-1.4/Nutch-1.4 20160122122153
+GigablastOpenSource/1.0 20160108214333
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20160119144613
+Mozilla/4.0_(compatible;_Synapse) 20160123161907
+Opera/9.27 20160103043852
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Moniterra.com 20160127001232
+python-requests/2.7.0_CPython/2.7.3_Linux/3.2.0-97-virtual 20160124041119
+Python-urllib/2.7 20160106082743
+Apache-HttpClient/4.2.5_(java_1.5) 20160105002210
+nutch-1.4/Nutch-1.4 20160122122153
+GigablastOpenSource/1.0 20160108214333
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20160119144613
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1593 1638
+From1 0 0
+From2 27 64
+From3 18 34
+From4 118 881
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 21 58
+baidu 3 3
+yandex 1 1
+yahoo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://burger-imperia.com 9 9
+http://www.polpred.com 2 2
+http://www.140online.com/class/pages/615/%D8%A7%D9%88%D9%86%D8%A7%D8%B4%20-%20%D8%B1%D8%A7%D9%81%D8%B9%D8%A7%D8%AA/2/ 1 1
+http://www.140online.com/company/C364545/%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D9%84%D9%82%D8%B7%D8%B9%20%D8%BA%D9%8A%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D8%A7%D8%AA%20%D9%88%20%D8%AE%D9%84%D9%81%D8%A7%D8%A4%D9%87/ 1 1
+http://translate.googleusercontent.com/translate_p 1 1
+http://translate.googleusercontent.com/translate_c 1 17
+http://www.diigen.com/redirect/http://www.egyptmachinery.net 1 1
+http://www.140online.com/class/pages/193/%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%20%D8%B9%D8%A7%D9%85%D9%87/3/ 1 1
+http://www.140online.com/class/pages/En/615/2/Cranes%20-%20lifts/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+egyptianmachinery 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+egyptianmachinery 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 5 54868
+302 3012 0
+206 24 5562570
+406 43 9492
+301 11 3397
+404 3047 39107594
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 539
+/en/License.txt 3 -
+/en/eWebEditor/ 1 -
+/phpcms/ 1 -
+/new_gb/help/images/usage/3.3.gif 1 -
+/en/admin/template/article_more/config.htm 1 -
+/en/wcm/ 1 -
+/fckeditor/fckeditor.js 1 -
+/Images/login/lefttu.jpg 1 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/en/system/ 2 -
+/en/images/default/post_bt.gif 1 -
+/xmlrpc.php 3 -
+/member/space/company/info.txt 1 -
+/en/ch/ 1 -
+/en/administrator/manifests/files/joomla.xml 1 -
+/en/images/login/eyoumail.gif 1 -
+/index.cgi 1 -
+/en/includes/general.js 1 -
+/en/console/include/not_login.htm 1 -
+/en/history.txt 1 -
+/administrator/ 8 -
+/plus/img/wbg.gif 5 -
+/en/images/login9/login_33.jpg 1 -
+/inc/rsd.php 1 -
+/webmail/tpl/user/tpl1/css/skins/blue.css 1 -
+/en/maxcms/ 1 -
+/User/Login.aspx 1 -
+/en/Images/login/lefttu.jpg 1 -
+/en/metinfo/ 1 -
+/en/admin/start/index.php 1 -
+/plugins/content/s5_media_player/s5_media_player.php 1 -
+/libs/ 1 -
+/en/lazycms/ 1 -
+/bencandy.php 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 2 -
+/jcms/index_jcms.jsp 1 -
+/en/images/login_03.gif 1 -
+/images/zh-CN/logo.ico 1 -
+/en/max-templates/classic/styles/app.css 1 -
+/shop/ 3 -
+/license.txt 1 -
+/verycms/ 1 -
+/archiver/ 1 -
+/plug/publish 2 -
+/en/changelog.txt 1 -
+/includes/fckeditor/editor/ 1 -
+/en/kindeditor/ 1 -
+/en/jcms/index_jcms.jsp 1 -
+/history.txt 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/en/empirecms/ 1 -
+/deptWebsiteAction.do 1 -
+/en/app/images/login/toplogo.gif 1 -
+/en/js/ajax_x.js 1 -
+/en/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/plus/sitemap.html 1 -
+/en/forum/ 3 -
+/rss.aspx 1 -
+/images/login-page.gif 1 -
+/en/examples/index.html 1 -
+/system/language/zh-cn.xml 1 -
+/en/extern.php 1 -
+/dedecms/ 1 -
+/en/function.mysql-connect 1 -
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/kindeditor-min.js 1 -
+/en/api/api_user.xml 1 -
+/en/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/en/Images/login/biaoti.jpg 1 -
+/archive/archive.css 1 -
+/admin/fckeditor/editor/filemanager/upload/php/upload.php 15 http://www.egyptmachinery.net/admin/fckeditor/fckeditor.js
+/manage/ 2 -
+/en/skin/frontend/default/modern/css/styles.css 1 -
+/en/editor/ 3 -
+/forum/ 3 -
+/webmail/images/hwem.css 1 -
+/en/examples/file-manager.html 1 -
+/webmail/maintlogin.jsp 1 -
+/alimail/ 1 -
+/en/eshop/ 3 -
+/wp-admin/ 6 http://egyptmachinery.net/wp-login.php
+/lang/en.js 1 -
+/en/data/admin/ver.txt 1 -
+/dvbbs/ 1 -
+/examples/index.html 1 -
+/zcms/ 1 -
+/en/admin/ 3 -
+/ids/admin/userhome/forgetPwd.jsp 2 -
+/en/shop/ 3 -
+/editor/dtd/ 2 -
+/Search.html 1 -
+/en/template/home.htm 1 -
+/Prompt/images/P_Wrong.gif 1 -
+/en/fangmail/ 1 -
+/m 2 -
+/plus/rssmap.html 1 -
+/en/CHANGELOG.txt 1 -
+/en/ckfinder/install.txt 1 -
+/fangmail/ 1 -
+/en/blog/ 3 -
+/leadbbs/ 1 -
+/en/list.php 1 -
+/en/fckeditor/license.txt 1 -
+/en/system/Login.aspx 1 -
+/issmall 1 -
+/product_d.php 8 -
+/en/plus/sitemap.html 1 -
+/en/drupal/ 1 -
+/images/login/eyoumail.gif 1 -
+/en/kindeditor.js 1 -
+/en/doku.php 1 -
+/forgotpassword.php 2 -
+/en/lang/en.js 1 -
+/en/libs/ 1 -
+/en/js/buttons.js 1 -
+/Install/logo.gif 1 -
+/en/leadbbs/ 1 -
+/en/cms/ 3 -
+/en/Template/Default/Skin/user/images/login_back.jpg 1 -
+/wp/ 2 -
+/en/readme.html 1 -
+/archiver 3 -
+/en/console/auth/reg_newuser.jsp 1 -
+/maintlogin.jsp 1 -
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/en/manage/ 2 -
+/plugins/filemanager/filemanager/js 1 -
+/inc/Templates/rss.xslt 1 -
+/en/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/en/Ntalker/lawfirm.aspx 1 -
+/fckeditor/editor/ 1 -
+/extman/default/images/logo.gif 3 -
+/cgi-mod/header_logo.cgi 1 -
+/en/aspcms/ 1 -
+/en/images/branding/logo.gif 1 -
+/en/joomla/ 1 -
+/admin/login.aspx 1 -
+/en/archiver/ 1 -
+/tools/rss.aspx 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 2 -
+/ewebeditor/ 1 -
+/admin/eWebEditor/ 1 -
+/stylesheet.css 1 -
+/en/ckeditor/ckeditor.js 1 -
+/Help 2 -
+/feed.asp 1 -
+/webedit/ 1 -
+/shops/ 3 -
+/coremail/common/help/images/helplogo.gif 3 -
+/webmail/images/login/logo.gif 1 -
+/ckeditor/ckfinder/install.txt 1 -
+/images/login/logo.gif 1 -
+/en/common/help/images/helplogo_zh.gif 1 -
+/en/Admin/Images/LoginImages/admin_top.gif 1 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/register.php 2 -
+/Administrator/fckeditor/fckeditor.js 1 http://egyptmachinery.net
+/en/admin.php 1 -
+/en/admin 1 -
+/en/foosun/ 1 -
+/images/image/tj(13).jpg/.php 1 -
+/eWebEditor/ 1 -
+/en/examples/readonly.html 1 -
+/en/webmail/ 3 -
+/en/cmseasy/ 1 -
+/6kbbs/ 1 -
+/images/branding/logo.gif 1 -
+/en/mall/ 3 -
+/en/licence.txt 1 -
+/en/plus/rssmap.html 1 -
+/eshop/ 3 -
+/images/image/tj(14).jpg/.php 1 -
+/webmail/index.cgi 1 -
+/plugins/anchor/anchor.js 1 -
+/coremail/common/help/images/helplogo_zh.gif 3 -
+/wp-admin/admin-ajax.php 2 -
+/webmail/web2/login_template/1.files/Logo1.jpg 1 -
+/e/master/login.aspx 2 -
+/admin-console 1 -
+/themes/default/default.css 1 -
+/mall/ 3 -
+/images/login/icon-up.gif 1 -
+/weblog/ 3 -
+/en/Error.aspx 1 -
+/webmail/help/ch_gb/images/help-title.gif 1 -
+/images/default/post_bt.gif 1 -
+/fckeditor.js 1 -
+/fckeditor/license.txt 1 -
+/en/ckeditor/ckfinder/ckfinder.html 1 -
+/en/FCK/editor/js/fckeditorcode_ie.js 1 -
+/phpmyadmin/docs.css 1 -
+/en/fckeditor/fckconfig.js 1 -
+/ycportal/webpublish/module.main 2 -
+/en/admin/SouthidcEditor/ewebeditor.asp 1 -
+/en/phpmyadmin/docs.css 1 -
+/webmail/admin/index.php 1 -
+/en/Search.html 1 -
+/en/phpwind/ 1 -
+/en/6kbbs/ 1 -
+/licence.txt 1 -
+/web-console 1 -
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/console/js/CTRSRequestParam.js 1 -
+/changelog.txt 1 -
+/en/auth/login 2 -
+/fluxbb/ 1 -
+/en/function.mysql-select-db 1 -
+/en/wp-login.php 1 -
+/en/web2/login_template/1.files/Logo1.jpg 1 -
+/en/wp/ 1 -
+/list.php 1 -
+/en/ewebeditor/ 1 -
+/category.php 151 -
+/en/cgi/index.cgi 1 -
+/en/member/space/company/info.txt 1 -
+/login/Jeecms.do 1 -
+/en/plus/heightsearch.php 1 -
+/en/whir_system/module/security/login.aspx 1 -
+/en/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/webmail/images/login9/login_33.jpg 1 -
+/en/fckeditor/fckeditor.js 1 -
+/en/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/phpbb/ 1 -
+/en/discuz/ 2 -
+/blog/wp-login.php 1 http://egyptmachinery.net/blog/wp-login.php
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/admin/editor/fckeditor.js 1 http://egyptmachinery.net
+/bbsmax/ 1 -
+/ymail/images/index_r1_c4.jpg 1 -
+/ckfinder/ckfinder.html 1 -
+/webmail/images/login/eyoumail.gif 1 -
+/oecms/ 1 -
+/en/archive/archive.css 1 -
+/console/auth/reg_newuser.jsp 1 -
+/images/login_03.gif 1 -
+/en/admin/login.aspx 1 -
+/contactys 1 http://ya.ru/
+/en/install 1 -
+/en/weblog/ 3 -
+/images/media/tj.php 3 -
+/Error.aspx 1 -
+/en/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/en/m 2 -
+/images/login9/login_33.jpg 1 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/contact_us.php 14 -
+/admin/template/article_more/config.htm 1 -
+/en/default/css/em_css.css 1 -
+/en/webedit/ 1 -
+/common/help/images/helplogo.gif 1 -
+/foosun/ 1 -
+/en/ymail/images/index_r1_c4.jpg 1 -
+/CHANGELOG.txt 1 -
+/blog/robots.txt 1 -
+/en/home.phpcategory.php 52 http://egyptmachinery.net
+/en/fckeditor.js 1 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/app/login.jsp 1 -
+/en/images/zh-CN/winisp.gif 1 -
+/en/extmail/ 1 -
+/coremail/ 1 -
+/en/editor/dtd/ 2 -
+/plus/heightsearch.php 1 -
+/en/new_gb/help/images/usage/3.3.gif 1 -
+/manager/html 1 -
+/plug// 2 -
+/js/buttons.js 1 -
+/webmail/Images/login/biaoti.jpg 1 -
+/Ntalker/lawfirm.aspx 1 -
+/wordpress/ 2 -
+/en/images/login/icon-up.gif 1 -
+/admin.php 9 -
+/en/Admin/Common/HelpLinks.xml 1 -
+/images/2_11.gif 1 -
+/en/home.phpcontact_us.php 4 http://egyptmachinery.net
+/KEdit/ 1 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/en/kingcms/ 1 -
+/webmail/Images/login/mainlogo.gif 1 -
+/common/common.js 1 -
+/en/app/images/login/logo.png 1 -
+/en/home.phpproduct_d.php 4 http://egyptmachinery.net
+/Images/login/mainlogo.gif 1 -
+/en/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/en/wordpress/ 1 -
+/en/oecms/ 1 -
+/wplogins.php 1 http://www.googlebot.com/bot.html
+/en/admin/includes/ 1 -
+/images/file/tj.php 3 -
+/en/app/login.jsp 1 -
+/siteserver/upgrade/default.aspx 2 -
+/th1s_1s_a_4o4.html 31 http://www.google.com/url
+/en/Images/login/mainlogo.gif 1 -
+/en/admin/eWebEditor/ 1 -
+/administrator/manifests/files/joomla.xml 1 -
+/_fckeditor/fckeditor.js 1 http://egyptmachinery.net
+/en/home.phppage.php 8 http://egyptmachinery.net
+/en/ecshop/ 1 -
+/en/rss.php 2 -
+/doku.php 1 -
+/en/system/skins/default/system.login.htm 1 -
+/en/docs.css 1 -
+/webmail/Images/login/lefttu.jpg 1 -
+/docs.css 1 -
+/webmail/tpl/login/user/images/login_bg_1.jpg 1 -
+/wp-login.php 48 -
+/admin/inc/xml.xslt 1 -
+/system/ 2 -
+/en/default/images/logo.gif 1 -
+/en/dialog/dialog.js 1 -
+/kindeditor.js 1 -
+/en/addons/theme/stv2/_static/ts2/layout.css 1 -
+/webmail/auth/login 2 -
+/en/includes/ 1 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/Images/login/biaoti.jpg 1 -
+/en/common/help/images/helplogo.gif 1 -
+/en/kindeditor-min.js 1 -
+/upload/slide/untitled_2(2).png 1385 http://www.egyptmachinery.net/en/home.php
+/cmseasy/ 1 -
+/cgi/index.cgi 1 -
+/webmail/next/img/logo.gif 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/en/plugins/filemanager/filemanager/js 1 -
+/en/license.txt 1 -
+/dede/ 1 -
+/readme.html 1 -
+/webmail/default/css/em_css.css 1 -
+/includes/general.js 1 -
+/manager/status 2 -
+/en/images/2_11.gif 1 -
+/default/css/em_css.css 1 -
+/en/Admin/Images/LoginImages/admin_text.gif 1 -
+/jcms/index.jsp 1 -
+/en/login/Jeecms.do 1 -
+/app/images/login/toplogo.gif 1 -
+/system/skins/default/system.login.htm 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/mail/ 3 -
+/en/common/common.js 1 -
+/robots.txt 493 -
+/app/home/skins/default/style.css 2 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/images/hwem.css 1 -
+/en/adminsoft/templates/images/login_bg_top.jpg 1 -
+/en/inc/Templates/rss.xslt 1 -
+/wordpress/wp-login.php 1 http://egyptmachinery.net/wordpress/wp-login.php
+/en/plugins/anchor/anchor.js 1 -
+/en/FCK/fckeditor.js 1 -
+/all_manufacture.php 2 -
+/console/js/CWCMDialogHead.js 1 -
+/en/Admin/Login.aspx 1 -
+/en/admin/inc/xml.xslt 1 -
+/en/inc/rsd.php 1 -
+/en/mail/ 3 -
+/ckfinder/install.txt 1 -
+/Admin/Login.aspx 1 -
+/template/home.htm 1 -
+/default/images/logo.gif 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 12 http://www.egyptmachinery.net/admin/fckeditor/fckeditor.js
+/en/images/hwem.css 1 -
+/en/zblog/ 1 -
+/en/User/Login.aspx 1 -
+/docs/ 1 -
+/en/phpcms/ 1 -
+/en/console/js/CTRSRequestParam.js 1 -
+/en/home.phpmanufacture_product.php 4 http://egyptmachinery.net
+/images/zh-CN/winisp.gif 1 -
+/wp-content/uploads/wpfoot.php 1 http://www.googlebot.com/bot.html
+/manufacture_product.php 41 -
+/en/help/ch_gb/images/help-title.gif 1 -
+/en/addons/theme/stv1/_static/ts2/layout.css 1 -
+/en/phpbb/ 1 -
+/images/info.gif 3 -
+/webmail/images/login/icon-up.gif 1 -
+/en/inc/playerKinds.xml 1 -
+/en/index.cgi 1 -
+/ckeditor/ckeditor.js 1 -
+/en/Prompt/images/P_Wrong.gif 1 -
+/en/editor/js/fckeditorcode_ie.js 1 -
+/webmail/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/blog/ 4 -
+/next/img/logo.gif 1 -
+/digg.php 1 -
+/en/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/Administrator/FCKeditor/fckeditor.js 1 http://egyptmachinery.net
+/asp.net/README.txt 1 -
+/en/images/zh-CN/logo.ico 1 -
+/en/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/en/phpmyadmin/ 1 -
+/en/jxcms/ 1 -
+/en/system/language/zh-cn.xml 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/en/bbsmax/ 1 -
+/master/login.aspx 2 -
+/extern.php 1 -
+/en/home.phphome.php 4 http://egyptmachinery.net
+/console/include/not_login.htm 1 -
+/all_category.php 6 -
+/en/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/page.php 28 -
+/en/dede/ 1 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/admin/includes/ 1 -
+/en/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/en/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/en/app/js/source/wcmlib/WCMConstants.js 1 -
+/examples/file-manager.html 1 -
+/en/feed.asp 1 -
+/drupal/ 1 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/siteserver/login.aspx 2 -
+/en/admin/index.php 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/en/dvbbs/ 1 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/en/maintlogin.jsp 1 -
+/Editor.js 1 -
+/Admin/Common/HelpLinks.xml 1 -
+/examples/readonly.html 1 -
+/en/docs/ 1 -
+/ids/admin/login.jsp 2 -
+/en/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/en/Editor.js 1 -
+/admin/start/index.php 1 -
+/wcm/ 1 -
+/FCK/fckeditor.js 1 -
+/statics/ 1 -
+/en/ckfinder/ckfinder.html 1 -
+/wp-content 1 -
+/images/image/tj(12).jpg/.php 1 -
+/en/dedecms/ 1 -
+/upload/slide/untitled_2%282%29.png 36 http://www.egyptmachinery.net/en/home.php
+/joomla/ 1 -
+/js/fckeditor/editor/ 1 -
+/dialog/dialog.js 1 -
+/whir_system/login.aspx 1 -
+/ch/ 1 -
+/extmail/ 1 -
+/en/rss.aspx 1 -
+/en/alimail/ 1 -
+/ecshop/ 1 -
+/en/coremail/ 1 -
+/en/fckeditor/editor/js/fckeditorcode_ie.js 2 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/en/themes/default/default.css 1 -
+/jxcms/ 1 -
+/en/wp-content 1 -
+/kindeditor/ 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/data/admin/ver.txt 1 -
+/en/whir_system/login.aspx 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/en/KEdit/ 1 -
+/admin/js/IdSUtil.js 2 -
+/en/ckeditor/ckfinder/install.txt 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/metinfo/ 1 -
+/en/kesion/ 1 -
+/eweb/ 1 -
+/kesion/ 1 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/webmail/new_gb/help/images/usage/3.3.gif 1 -
+/en/statics/ 1 -
+/administrator/index.php 7 http://egyptmachinery.net/administrator/
+/kingcms/ 1 -
+/js/ajax_x.js 1 -
+/empirecms/ 1 -
+/install 1 -
+/js/close.gif 13 -
+/images/powered_by.gif 1 -
+/en/tpl/login/user/images/login_bg_1.jpg 1 -
+/wp-cron.php 1 -
+/webmail/default/images/logo.gif 1 -
+/home.php 18 -
+/fckeditor/fckconfig.js 1 -
+/en/wp-cron.php 1 -
+/en/robots.txt 3 -
+/whir_system/module/security/login.aspx 1 -
+/en/fluxbb/ 1 -
+/aspcms/ 1 -
+/webmail/cgi/index.cgi 1 -
+/en/digg.php 1 -
+/_phenotype/admin/lib/fckeditor/fckeditor/editor/filemanager/connectors/perl/connector.cgi 1 -
+/max-templates/classic/styles/app.css 1 -
+/app/images/login/logo.png 1 -
+/inc/playerKinds.xml 1 -
+/en/eweb/ 1 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/en/tools/rss.aspx 1 -
+/en/bbs/ 3 -
+/en/zcms/ 1 -
+/en/ycportal/js/wbTextBox/showimg.jsp 1 -
+/en/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/phpmyadmin/ 1 -
+/phpwind/ 1 -
+/api/api_user.xml 1 -
+/webmail/common/help/images/helplogo_zh.gif 1 -
+/includes/ 1 -
+/en/next/img/logo.gif 1 -
+/discuz/ 2 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+/en/bencandy.php 1 -
+/rss.php 2 -
+/en/archiver 3 -
+/editor/fckeditor/editor/ 1 -
+/en/tpl/user/tpl1/css/skins/blue.css 1 -
+/en/Install/logo.gif 1 -
+/en/stylesheet.css 1 -
+/ccontacts 1 http://ya.ru/
+/en/asp.net/README.txt 1 -
+/maxcms/ 1 -
+/en/images/login/logo.gif 1 -
+/webmail/common/help/images/helplogo.gif 1 -
+/en/apps/admin/_static/image/login_box_bg.png 1 -
+/bbs/ 3 -
+/en/deptWebsiteAction.do 1 -
+/zblog/ 1 -
+/en/loader_frame.html 1 -
+/en/console/js/CWCMDialogHead.js 1 -
+/images/info.jpg 12 http://www.egyptmachinery.net/en/register.php
+/lazycms/ 1 -
+/en/jcms/index.jsp 1 -
+/License.txt 3 -
+/en/home.phpregister.php 4 http://egyptmachinery.net
+/common/help/images/helplogo_zh.gif 1 -
+/editor/ 3 -
+/system/Login.aspx 1 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/cms/ 3 -
+/auth/login 2 -
+/webmail/ymail/images/index_r1_c4.jpg 1 -
+/en/verycms/ 1 -
+/en/shops/ 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 358
+85.93.89.74 32 32 220714 20160127115655
+188.143.232.34 27 27 179831 20160129160107
+14.215.76.17 26 26 368706 20160101042233
+123.125.71.91 20 20 283620 20160126132028
+213.157.205.164 18 18 43344 20160103043855
+123.125.71.110 17 17 241077 20160125081927
+204.184.153.7 16 16 219232 20160127174832
+123.125.71.69 16 16 226896 20160124052250
+123.125.71.108 16 16 226896 20160123022241
+123.125.71.22 15 15 212715 20160130172040
+220.181.108.144 15 15 212715 20160126153114
+123.125.71.74 15 15 212715 20160121152157
+123.125.71.86 15 15 212715 20160125092239
+123.125.71.85 15 15 212715 20160123152135
+123.125.71.80 14 14 198534 20160126112232
+14.156.4.162 14 14 198534 20160128015842
+123.125.71.79 14 14 198534 20160125092235
+123.125.71.92 13 13 179291 20160125081926
+123.125.71.73 13 13 184353 20160121012226
+123.125.71.107 13 13 184353 20160124222055
+123.125.71.89 13 13 184353 20160126092141
+123.125.71.116 13 13 184353 20160120232755
+123.125.71.106 13 13 184353 20160124202043
+123.125.71.72 13 13 184353 20160124062218
+123.125.71.75 13 13 184353 20160125002156
+123.125.71.15 8 8 113448 20160130142044
+77.219.17.173 0 1 62421 
+69.58.178.56 11 11 68195 20160106110335
+176.31.24.29 1 1 14181 20160131065550
+101.226.51.230 1 1 14181 20160113050559
+182.188.191.171 0 1 131712 
+220.181.108.141 7 7 93958 20160124022614
+220.181.108.159 12 12 170172 20160129073648
+180.153.214.178 1 1 14181 20160129050842
+41.32.145.61 3 27 2014421 20160120071442
+109.226.108.8 1 1 8596 20160116182509
+180.153.163.186 1 1 14181 20160117050527
+220.181.108.146 10 10 141810 20160124192455
+27.221.19.20 1 1 14181 20160109023541
+220.181.132.219 4 4 57092 20160126064136
+123.125.71.31 4 4 56724 20160119162021
+123.125.71.19 7 7 99267 20160126022106
+220.181.108.116 8 8 113448 20160128212812
+123.125.71.41 3 3 42543 20160105062213
+85.25.103.119 2 2 28362 20160113010052
+220.181.108.110 9 9 127629 20160131072642
+45.32.244.203 1 1 846 20160106071339
+220.181.108.100 4 4 56724 20160130212533
+95.153.131.134 0 1 59669 
+220.181.108.86 1 1 14181 20160129022743
+202.102.99.146 1 1 14181 20160115184059
+66.249.93.36 1 1 8981 20160104083029
+220.181.108.121 4 4 56724 20160116162519
+99.229.215.35 1 4 27701 20160112220616
+180.153.206.35 1 1 14181 20160101050552
+176.9.98.12 1 1 14181 20160127001232
+220.181.108.115 5 5 70905 20160131042544
+220.181.108.90 7 7 99267 20160130002631
+123.125.71.20 10 10 141810 20160130202047
+136.243.48.86 3 3 43347 20160115011031
+65.132.59.34 1 1 14181 20160108214333
+123.125.71.56 5 5 70905 20160126192013
+220.181.108.155 7 7 90976 20160129073647
+220.181.108.83 8 8 110683 20160130232706
+66.249.93.215 1 1 14181 20160123225839
+123.125.71.82 8 8 113448 20160124232157
+101.226.33.208 1 1 14181 20160115050541
+180.153.160.62 1 1 14181 20160109050533
+203.143.28.130 0 1 62421 
+85.10.210.199 1 1 14181 20160128021127
+176.125.127.18 0 1 59669 
+101.229.174.128 2 25 1999088 20160121205725
+185.30.88.198 1 1 8596 20160116173533
+77.109.139.87 1 1 14181 20160112172103
+37.177.134.141 2 25 1999088 20160121111130
+123.125.71.109 8 8 113448 20160123012130
+220.181.108.145 11 11 149018 20160124172523
+180.153.206.17 1 1 14181 20160119050455
+101.199.108.53 1 2 17146 20160109023621
+101.226.66.179 1 1 13754 20160121023504
+111.252.187.199 3 19 349250 20160120210758
+220.181.108.107 4 4 56724 20160131062605
+109.188.126.49 1 1 8596 20160116185015
+112.64.235.251 1 1 14181 20160107050529
+220.181.108.151 9 9 127629 20160124212623
+202.137.156.163 0 1 62421 
+104.156.230.231 1 1 14181 20160117222044
+223.255.205.222 3 27 2014421 20160129040113
+68.12.224.55 0 1 526848 
+220.181.108.96 7 7 99267 20160131012825
+123.125.71.16 7 7 99267 20160130192208
+188.162.166.8 0 1 59669 
+123.125.71.117 9 9 115063 20160125112325
+105.39.17.221 10 36 2120470 20160131090428
+180.153.201.212 1 1 14181 20160111050552
+111.206.36.140 1 2 17146 20160117211012
+14.156.6.156 4 4 56724 20160128205754
+85.107.182.179 3 27 2013132 20160123154511
+220.181.108.139 8 8 113448 20160120162356
+136.243.48.84 2 2 26165 20160117023318
+184.154.36.180 0 6 17790 
+123.125.71.55 3 3 42543 20160123122057
+82.166.77.214 1 1 14181 20160106082743
+220.181.108.187 9 9 120229 20160126173226
+123.125.71.40 9 9 127629 20160130182020
+220.181.108.106 4 4 56724 20160131052553
+46.4.54.74 1 1 14181 20160127212847
+85.106.103.114 0 1 59669 
+45.55.134.12 2 2 27935 20160118115133
+173.227.74.5 8 34 2132134 20160110190142
+123.125.71.45 5 5 70905 20160117112135
+91.230.110.201 1 1 842 20160101084248
+171.25.193.78 1 1 14181 20160112180332
+195.218.182.79 0 1 59669 
+198.50.200.131 1 1 14181 20160117195142
+195.16.111.223 0 1 59669 
+123.125.71.81 12 12 170172 20160124092134
+123.125.71.26 8 8 113448 20160130151951
+220.181.108.109 5 5 70905 20160129232720
+123.125.71.32 12 12 170172 20160130172041
+46.229.170.197 2 2 28362 20160120224511
+112.65.193.16 1 1 14181 20160121023447
+220.181.108.75 4 4 56724 20160121132659
+67.198.129.130 4 28 2028602 20160126034231
+101.199.112.52 2 4 34292 20160126033840
+180.153.211.190 1 1 14181 20160121023450
+95.183.49.224 1 1 14181 20160112164631
+180.153.206.34 1 1 14181 20160125050752
+220.181.108.85 7 7 99267 20160131102612
+220.181.108.182 8 8 113448 20160123192530
+220.181.108.147 9 9 121953 20160124132427
+78.165.197.12 0 1 59669 
+123.125.71.12 7 7 93737 20160130142043
+220.181.108.91 7 7 99267 20160131002700
+117.78.13.29 1 1 14181 20160107023737
+123.125.71.49 5 5 70905 20160126032117
+31.193.132.212 4 4 56724 20160120232308
+180.153.206.27 1 1 14181 20160121023451
+220.181.108.76 9 9 120553 20160131122545
+158.106.67.180 1 24 2477777 20160119144217
+220.181.108.149 8 8 113448 20160121212622
+197.41.52.233 3 28 2014836 20160109072531
+183.60.244.46 5 5 60812 20160126180600
+82.154.229.169 0 1 131712 
+204.155.30.92 1 1 846 20160122204824
+95.0.78.178 2 25 1999088 20160126082736
+185.84.108.14 1 1 14181 20160129154726
+220.181.108.152 5 5 70905 20160124202600
+123.125.71.46 6 6 85086 20160130162017
+46.4.100.116 1 1 14181 20160113230226
+54.202.77.147 2 3 31327 20160124041120
+123.125.71.76 11 11 155991 20160125112324
+219.111.2.38 1 1 14181 20160124045415
+220.181.108.181 7 7 99267 20160124122649
+184.154.36.181 0 4 11860 
+5.196.219.112 1 1 14181 20160116202546
+101.226.89.122 1 1 14181 20160105050601
+220.181.108.117 9 9 127629 20160130222658
+104.236.195.238 1 1 14181 20160120153735
+111.13.102.139 1 1 14181 20160109023337
+220.181.108.112 12 12 170172 20160130082716
+220.181.108.142 8 8 113448 20160128083219
+220.181.108.163 8 8 113448 20160129192445
+220.181.108.103 1 1 14181 20160118072754
+221.219.76.157 3 3 42543 20160106012019
+79.113.245.48 1 1 14181 20160126052454
+123.125.71.113 9 9 120656 20160125002155
+220.181.108.177 12 12 170172 20160124142520
+220.181.108.82 5 5 70905 20160131082715
+184.154.36.178 0 9 26685 
+66.249.93.40 3 3 26558 20160107060235
+123.125.71.36 5 5 70905 20160110212038
+220.181.108.160 6 6 85086 20160124162528
+111.206.36.135 1 2 16719 20160117211019
+204.93.58.252 1 1 846 20160117220422
+220.181.108.97 7 7 99267 20160130012612
+88.242.38.255 0 1 59669 
+83.149.19.191 1 23 1984698 20160114160217
+220.181.108.143 9 9 127629 20160127183228
+209.73.141.123 1 1 846 20160105095909
+123.125.71.27 4 4 56724 20160130162016
+184.154.36.177 0 7 20755 
+123.125.71.44 8 8 113448 20160123062217
+41.130.32.132 2 25 1999088 20160109023338
+220.181.108.81 3 3 42543 20160118062719
+121.13.239.126 4 4 56724 20160102182745
+220.181.108.77 7 7 99267 20160130002632
+123.125.71.33 5 5 70905 20160125072246
+197.47.100.208 12 36 2065077 20160115055107
+123.125.71.58 6 6 85086 20160130132059
+83.69.28.177 0 1 59669 
+123.125.71.43 2 2 28362 20160123082135
+123.125.71.90 8 8 113448 20160123002244
+92.45.56.74 0 1 59669 
+220.181.108.99 9 9 127629 20160131032647
+46.2.105.112 0 1 59669 
+66.249.93.39 2 3 148904 20160106050310
+123.125.71.51 7 7 99267 20160130192207
+220.181.108.179 10 10 141810 20160126092745
+220.181.108.140 7 7 99267 20160121082818
+220.181.108.118 5 5 70905 20160131112603
+123.125.71.17 8 8 113448 20160130122123
+124.42.193.5 1 1 14181 20160118175656
+220.181.108.153 5 5 70905 20160124042650
+220.181.108.78 6 6 85086 20160119002641
+123.125.71.77 7 7 99267 20160124072038
+171.8.167.61 1 2 17146 20160109023639
+220.181.108.120 9 9 127629 20160131122546
+123.125.71.54 8 8 107677 20160126142049
+104.207.150.177 2 2 28362 20160130200217
+117.218.109.192 0 1 62421 
+213.87.126.81 0 1 59669 
+180.153.206.37 1 1 11368 20160121023419
+220.181.108.108 7 7 99267 20160121112827
+101.199.108.51 1 2 17330 20160126064151
+198.252.44.14 7 7 99267 20160118162143
+125.111.233.34 1 1 14181 20160105002210
+123.125.71.23 8 8 113448 20160126182034
+220.181.108.186 6 6 85086 20160124082726
+45.55.133.231 2 2 27935 20160109221150
+101.199.108.55 1 2 17146 20160121205757
+86.1.63.173 2 25 1999088 20160107160642
+220.181.108.123 7 7 99267 20160130082716
+123.125.71.34 5 5 70905 20160121202140
+108.61.180.116 6 29 2054958 20160112001550
+82.117.229.156 2 2 14181 20160118125258
+220.181.108.105 6 6 85086 20160130232705
+123.125.71.60 11 11 150315 20160125152957
+123.125.71.88 12 12 170172 20160124222056
+176.223.0.18 1 1 8596 20160116172354
+119.147.146.189 1 1 14365 20160121111503
+188.163.77.5 1 1 846 20160122091910
+176.218.119.96 0 1 59669 
+101.226.89.123 2 2 28362 20160131050814
+139.162.25.197 5 32 2104709 20160121023759
+123.125.71.57 9 9 127629 20160130202046
+85.105.115.40 6 31 2053603 20160120033114
+109.172.55.149 1 1 846 20160105061001
+220.181.108.102 2 2 28362 20160131102614
+123.125.71.84 12 12 170172 20160126132028
+220.181.108.92 7 7 99267 20160130042716
+220.181.108.94 3 3 42543 20160131042544
+220.181.108.156 8 8 113448 20160121212623
+61.135.190.104 1 1 14181 20160131232042
+111.206.36.5 1 2 17146 20160117211013
+185.65.135.227 1 1 14181 20160112185032
+185.18.200.156 0 1 59669 
+66.249.93.212 1 1 14181 20160109072627
+77.247.181.162 1 1 14181 20160112170546
+123.125.71.13 9 9 127629 20160126012114
+117.78.13.18 1 1 14181 20160122122153
+45.55.229.90 1 1 14181 20160113200100
+88.201.29.105 7 41 2098599 20160123225750
+192.151.145.10 2 2 30824 20160101101532
+123.125.71.114 11 11 155991 20160126122203
+220.181.108.176 9 9 127629 20160124232645
+61.135.190.102 1 1 14181 20160131233234
+119.147.146.194 1 1 14365 20160121111548
+123.125.71.28 7 7 99267 20160130102148
+149.71.92.105 2 25 1999088 20160121014721
+197.132.225.173 2 25 1999088 20160120160158
+46.101.152.244 1 1 14181 20160123110844
+218.18.170.221 2 2 28362 20160103115807
+220.181.108.89 6 6 85086 20160131012825
+45.55.229.153 1 1 14181 20160106155133
+188.143.232.16 5 5 60801 20160111113250
+220.181.108.161 4 4 56724 20160126173231
+220.181.108.113 5 5 70905 20160131072643
+5.61.40.20 1 1 14181 20160125065838
+61.101.25.150 3 27 2014421 20160111024916
+50.248.21.25 4 4 56908 20160127114929
+217.73.209.138 1 1 14181 20160130174119
+5.62.154.48 1 1 14181 20160109205934
+220.181.108.101 6 6 85086 20160131052554
+123.125.71.14 6 6 85086 20160126162123
+220.181.108.150 10 10 141810 20160118132656
+220.181.108.158 7 7 99267 20160124162526
+37.193.152.96 1 1 8596 20160116180033
+220.181.108.119 8 8 113448 20160130222655
+220.181.108.184 4 4 56724 20160121182457
+101.226.33.223 1 1 14181 20160123050839
+101.199.108.56 1 2 17330 20160126034338
+184.154.36.179 0 5 14825 
+123.125.71.18 13 13 177380 20160130112138
+45.55.133.232 1 1 14181 20160126204119
+66.102.9.90 1 1 14181 20160114160215
+180.153.163.189 1 1 14365 20160121023759
+93.80.85.210 1 2 17146 20160106201102
+123.125.71.24 6 6 85086 20160123052143
+220.181.108.80 7 7 99267 20160129182617
+130.185.139.213 1 1 14181 20160101023221
+123.125.71.53 9 9 122502 20160130151954
+197.37.250.249 3 27 2014421 20160111052326
+123.125.71.71 10 10 141810 20160124092134
+115.60.13.183 2 25 1999088 20160127042116
+220.181.108.111 5 5 70905 20160126082609
+91.204.60.189 0 1 59669 
+123.125.71.38 4 4 56724 20160125072249
+104.43.198.23 2 2 1230 20160129141358
+197.35.167.212 6 40 2148025 20160108131433
+123.125.71.78 9 9 127629 20160122232135
+91.121.100.66 1 1 14181 20160110161809
+220.181.108.87 4 4 43158 20160130072714
+123.125.71.112 7 7 92294 20160121102116
+123.125.71.47 5 5 70905 20160123082129
+123.125.71.42 5 5 70905 20160121212117
+220.181.108.185 7 7 99267 20160124232646
+220.181.108.93 5 5 70905 20160129182618
+45.32.129.200 4 4 56724 20160122040504
+2.124.239.55 0 1 62421 
+64.60.119.235 2 26 1999297 20160112090739
+41.36.159.95 3 27 2014421 20160121071908
+198.252.44.9 1 1 14181 20160129135439
+220.181.108.178 5 5 70905 20160125002711
+218.23.123.79 2 24 1997517 20160117211013
+123.125.71.21 4 4 56724 20160125062306
+220.181.108.84 3 3 42543 20160130022611
+220.181.108.114 2 2 28362 20160113042638
+171.8.167.65 1 2 17146 20160109023708
+220.181.108.104 5 5 70905 20160125073511
+94.242.221.68 1 1 15412 20160123161903
+2.86.190.183 6 32 2098704 20160128081412
+88.198.202.75 1 1 14181 20160103125856
+220.181.108.180 8 8 113448 20160126092743
+156.184.113.88 7 31 2050065 20160113071426
+101.199.112.50 1 2 17146 20160121205908
+142.4.218.201 2 2 28362 20160107141241
+123.125.71.87 13 13 184353 20160125102306
+182.140.230.22 1 2 17146 20160121205920
+95.226.105.98 3 3 46248 20160123161907
+123.125.71.115 5 5 70905 20160121032135
+109.185.112.207 1 1 8596 20160116193509
+123.125.71.29 8 8 113448 20160121212117
+37.239.8.17 0 1 62421 
+105.109.113.54 0 1 62421 
+217.66.152.89 0 1 59669 
+220.181.108.157 7 7 99267 20160125002711
+123.125.71.83 13 13 184353 20160126112233
+220.181.108.122 9 9 127629 20160129202640
+62.133.162.165 0 1 59669 
+220.181.108.154 9 9 122320 20160124122649
+123.125.71.30 5 5 70905 20160118032335
+196.218.129.204 4 11 64617 20160116075831
+123.125.71.111 10 10 141810 20160126092142
+192.241.169.95 1 1 14181 20160116124504
+220.181.108.183 11 11 155991 20160128083221
+45.55.229.98 1 1 14181 20160127083205
+123.125.71.39 7 7 99267 20160130122124
+195.112.235.59 1 1 14181 20160120140457
+220.181.108.95 6 6 85086 20160131082713
+123.125.71.48 7 7 99267 20160130102149
+220.181.108.162 10 10 141810 20160124222550
+115.60.15.14 2 25 1999088 20160115193313
+220.181.108.88 5 5 70905 20160131062606
+123.125.71.52 8 8 113448 20160126172032
+123.125.71.70 9 9 127629 20160125102309
+101.199.108.120 1 2 17146 20160121205910
+123.125.71.50 5 5 70905 20160126022104
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20160101 95 97 1401843 66
+20160102 76 78 1132524 70
+20160103 68 69 755359 48
+20160104 40 42 614868 40
+20160105 52 54 839743 50
+20160106 91 93 1178955 77
+20160107 38 62 2494811 35
+20160108 64 99 2973488 53
+20160109 33 85 4422425 29
+20160110 39 66 2569583 32
+20160111 47 96 4603124 37
+20160112 63 114 4850695 54
+20160113 45 70 2591908 36
+20160114 59 82 2802369 53
+20160115 80 129 5523821 66
+20160116 56 65 815822 49
+20160117 54 81 2856661 49
+20160118 55 59 933753 51
+20160119 30 56 3076399 29
+20160120 78 168 7384270 60
+20160121 102 228 11379424 93
+20160122 11 14 235933 11
+20160123 76 137 5174916 64
+20160124 67 71 1078147 64
+20160125 32 34 510655 32
+20160126 67 120 5014572 53
+20160127 56 80 2527269 11
+20160128 37 65 2603701 16
+20160129 59 85 2648795 33
+20160130 50 53 831353 49
+20160131 36 65 2607155 26
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 5
+0s-30s 1373
+30s-2mn 11
+2mn-5mn 7
+15mn-30mn 3
+30mn-1h 36
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/en/home.php 1527 21516949 1392 1356
+/en/all_manufacture.php 43 588084 4 18
+/en/category.php 43 36421 0 3
+/en/page.php 38 238321 3 4
+/en/contact_us.php 23 330395 6 19
+/en/register.php 21 294781 5 5
+/en/manufacture_product.php 15 145695 3 3
+/admin/login.php 9 77364 8 9
+/en/dynamicimage.php 9 4635 1 3
+/en/product.php 7 16945 7 6
+/cpanel 6 53886 5 5
+/en/product_d.php 4 49293 0 1
+/en/all_category.php 4 52304 1 3
+/en/forgotpassword.php 3 39267 1 1
+/webmail/ 2 18510 0 0
+/en/search.php 2 20805 0 0
+END_SIDER

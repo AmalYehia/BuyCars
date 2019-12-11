@@ -1,0 +1,601 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201608 will be lost/reset.
+# Last config file used to build this data file was /home2/egymach/tmp/awstats/awstats.egyptmachinery.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2698                
+POS_VISITOR 15877               
+POS_DAY 17703               
+POS_DOMAIN 3412                
+POS_LOGIN 3789                
+POS_ROBOT 3944                
+POS_WORMS 4405                
+POS_EMAILSENDER 4536                
+POS_EMAILRECEIVER 4679                
+POS_SESSION 18133               
+POS_SIDER 18310               
+POS_FILETYPES 4814                
+POS_DOWNLOADS 4983                
+POS_OS 5031                
+POS_BROWSER 5245                
+POS_SCREENSIZE 5969                
+POS_UNKNOWNREFERER 6043                
+POS_UNKNOWNREFERERBROWSER 6272                
+POS_ORIGIN 6383                
+POS_SEREFERRALS 6517                
+POS_PAGEREFS 6683                
+POS_SEARCHWORDS 7287                
+POS_KEYWORDS 7439                
+POS_MISC 2361                
+POS_ERRORS 7498                
+POS_CLUSTER 3645                
+POS_SIDER_404 7629                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160819063953 455 106560 9893258425067
+FirstTime 20160801012717
+LastTime 20160818221958
+LastUpdate 20160819075030 455 0 455 0 0
+TotalVisits 54                  
+TotalUnique 46                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 46                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 20 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 3952 153 296 2767570
+1 3 3 1482 26 33 57086
+2 2 2 27938 29 33 24188
+3 0 0 0 40 47 49101
+4 6 6 16654 36 44 50783
+5 7 7 44525 54 63 47926
+6 1 1 494 26 30 27239
+7 3 3 1482 34 40 28035
+8 6 6 2964 23 27 35100
+9 0 0 0 24 35 343880
+10 6 51 3997605 35 133 461145
+11 3 3 1482 42 49 45944
+12 2 2 14678 27 32 43266
+13 2 2 14675 32 38 49655
+14 2 2 988 87 94 572609
+15 0 0 0 43 48 59414
+16 19 19 42742 33 37 57514
+17 0 0 0 32 36 52466
+18 2 2 988 40 45 87723
+19 4 4 1976 25 33 19054
+20 4 19 1699658 28 31 32162
+21 25 48 2163565 30 141 576221
+22 4 5 12487 38 235 856704
+23 2 2 988 101 109 558646
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 42 66 2182474
+ch 18 18 42248
+cn 10 10 46007
+eg 9 54 3999087
+ru 8 8 17642
+kr 8 23 1701634
+fr 6 6 2964
+de 4 4 15663
+ca 3 3 28432
+ua 1 1 494
+nl 1 1 494
+id 1 1 14184
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 166 395156 20160819063953 0
+bot[\s_+:,\.\;\/\\-] 166 819268 20160818161047 0
+crawl 59 507287 20160818144102 0
+spider 43 129352 20160815212620 0
+slurp 17 81555 20160819011525 0
+robot 5 18628 20160816150210 0
+googlebot\-image 3 274393 20160815094650 0
+msnbot\-media 2 988 20160811064700 0
+netcraft 1 494 20160810042421 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 4 11860 0 0
+php 54 488188 0 0
+png 3 216063 0 0
+jpg 12 7152526 0 0
+cgi 57 28158 0 0
+gif 65 154528 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+blackberry 1 1
+linuxandroid 2 2
+winxp 18 18
+winnt 29 6
+linux 6 6
+win7 41 26
+win2003 1 1
+macosx9 6 6
+win8 24 2
+Unknown 33 33
+win8.1 32 8
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 37
+msie6.0 1 1
+firefox5.0 1 1
+chrome52.0.2743.116 26 4
+firefox44.0 1 1
+chrome34.0.1847.137 1 1
+android 2 2
+firefox18.0 1 1
+chrome36.0.1985.125 6 6
+firefox31.0 4 4
+msie8.0 2 2
+chrome26.0.1410.65 2 2
+chrome45.0.2454.93 1 1
+msie7.0 10 10
+chrome37.0.2062.120 2 2
+chrome10.0.648.204 4 4
+msie9.0 23 8
+chrome42.0.2311.152 2 2
+Unknown 20 20
+chrome44.0.2412.41 1 1
+blackberry 1 1
+firefox48.0 25 2
+firefox40.0 2 2
+chrome13.0.782.24 1 1
+opera9.27 9 9
+firefox38.0 1 1
+firefox7.0.1 3 3
+firefox47.0 1 1
+firefox2.0.0.11 1 1
+chrome51.0.2704.103 4 4
+msie11.0 1 1
+mozilla 4 4
+firefox37.0 1 1
+firefox14.0.1 1 1
+msie10.0 1 1
+chrome39.0.2171.99 1 1
+chrome46.0.2490.86 27 3
+chrome48.0.2564.103 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20160813083019
+panscient.com 20160815215552
+Opera/9.27 20160816163401
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+panscient.com 20160815215552
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 90 90
+From1 0 0
+From2 4 4
+From3 6 6
+From4 11 95
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://pizza-tycoon.com 1 1
+http://burger-imperia.com 1 1
+http://www.140online.com/company/C364545/%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D9%84%D9%82%D8%B7%D8%B9%20%D8%BA%D9%8A%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D8%A7%D8%AA%20%D9%88%20%D8%AE%D9%84%D9%81%D8%A7%D8%A4%D9%87/ 1 1
+http://polpred.com 1 1
+http://777parts.net/caterpillar/966F+II/m2228/SEBP22140248.html 1 1
+http://www.business-yellowpages.com/details/223532/egypt/El-Krim-Company 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 18 2412
+302 561 141171
+406 16 3616
+404 632 4506868
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 214
+/cgi-sys/template/1/bluewise/_files/jspxcms.css 1 -
+/cgi-sys/Wq_StranJF.js 1 -
+/cgi-sys/ks_inc/ajax.js 1 -
+/cgi-sys/robots.txt 1 -
+/cgi-sys/Images/login/lefttu.jpg 1 -
+/cgi-sys/console/include/not_login.htm 1 -
+/cgi-sys/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/cgi-sys/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/cgi-sys/addons/theme/stv2/_static/ts2/layout.css 1 -
+/cgi-sys/admin/admin_login.php 1 -
+/cgi-sys/ckfinder/ckfinder.html 1 -
+/cgi-sys/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/cgi-sys/kindeditor.js 1 -
+/cgi-sys/ymail/images/index_r1_c4.jpg 1 -
+/cgi-sys/system/Login.aspx 1 -
+/cgi-sys/console/js/CTRSRequestParam.js 1 -
+/cgi-sys/readme.html 1 -
+/cgi-sys/images/2_11.gif 1 -
+/cgi-sys/phpmyadmin/docs.css 1 -
+/cgi-sys/license.txt 1 -
+/cgi-sys/CHANGELOG.txt 1 -
+/cgi-sys/js/ajax_x.js 1 -
+/cgi-sys/pub/guiedit/guiedit.js 1 -
+/cgi-sys/index.cgi 1 -
+/cgi-sys/common/help/images/helplogo.gif 1 -
+/cgi-sys/forum/ 1 -
+/cgi-sys/was/help.jsp 1 -
+/cgi-sys/ycportal/js/wbTextBox/showimg.jsp 1 -
+/cgi-sys/system/language/zh-cn.xml 1 -
+/cgi-sys/archiver/ 1 -
+/user/register 1 -
+/cgi-sys/public/about.html 1 -
+/cgi-sys/wp-login.php 1 -
+/cgi-sys/max-templates/classic/styles/app.css 1 -
+/cgi-sys/public/js/ipb.js 1 -
+/cgi-sys/tools/rss.aspx 1 -
+/cgi-sys/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/cgi-sys/nobody/mobile.htm 1 -
+/cgi-sys/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/cgi-sys/logo/logo_jw.png 1 -
+/cgi-sys/images/login/icon-up.gif 1 -
+/cgi-sys/app/images/login/logo.png 1 -
+/cgi-sys/ckeditor/ckfinder/install.txt 1 -
+/cgi-sys/template/home.htm 1 -
+/cgi-sys/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/cgi-sys/history.txt 1 -
+/cgi-sys/include/dialog/config.php 1 -
+/cgi-sys/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/cgi-sys/addons/theme/stv1/_static/ts2/layout.css 1 -
+/cgi-sys/img/pic/login/top-left.jpg 1 -
+/cgi-sys/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/cgi-sys/static/hgicon.png 1 -
+/cgi-sys/changelog.txt 1 -
+/cgi-sys/inc/playerKinds.xml 1 -
+/cgi-sys/plugins/anchor/anchor.js 1 -
+/cgi-sys/plus/rssmap.html 1 -
+/cgi-sys/deptWebsiteAction.do 1 -
+/cgi-sys/js/buttons.js 1 -
+/cgi-sys/index.php 5 -
+/cgi-sys/administrator/manifests/files/joomla.xml 1 -
+/cgi-sys/member/space/company/info.txt 1 -
+/cgi-sys/plus/heightsearch.php 1 -
+/cgi-sys/inc/rsd.php 1 -
+/cgi-sys/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/js/mage/cookies.js 2 egyptmachinery.net
+/cgi-sys/examples/index.html 1 -
+/cgi-sys/rss.php 1 -
+/cgi-sys/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/license.php 1 http://www.egyptmachinery.net/license.php
+/cgi-sys/Public/Admin/Images/login_main_bg.jpg 1 -
+/cgi-sys/examples/readonly.html 1 -
+/upload/slide/untitled_2(2).png 383 -
+/cgi-sys/phpmyadmin/ 1 -
+/cgi-sys/wp-cron.php 1 -
+/cgi-sys/ckeditor/ckeditor.js 1 -
+/cgi-sys/forum.php 1 -
+/cgi-sys/inc/Templates/rss.xslt 1 -
+/cgi-sys/was5/web/index.jsp 1 -
+/cgi-sys/whir_system/module/security/login.aspx 1 -
+/cgi-sys/bbs/ 1 -
+/cgi-sys/archiver 1 -
+/cgi-sys/extern.php 1 -
+/cgi-sys/Install/logo.gif 1 -
+/cgi-sys/login/Jeecms.do 1 -
+/cgi-sys/plus/sitemap.html 1 -
+/cgi-sys/images/hwem.css 1 -
+/cgi-sys/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/cgi-sys/customdir/images/english_logo.jpg 1 -
+/cgi-sys/docs/ 1 -
+/cgi-sys/plugins/filemanager/filemanager/js 1 -
+/cgi-sys/fckeditor/fckeditor.js 1 -
+/cgi-sys/fckeditor/license.txt 1 -
+/cgi-sys/admin/template/article_more/config.htm 1 -
+/cgi-sys/Admin/Images/LoginImages/admin_text.gif 1 -
+/robots.txt 32 -
+/cgi-sys/Search.html 1 -
+/cgi-sys/images/login/logo.gif 1 -
+/cgi-sys/images/logo-white.png 1 -
+/cgi-sys/data/admin/ver.txt 1 -
+/cgi-sys/jcms/index_jcms.jsp 1 -
+/cgi-sys/feed.asp 1 -
+/cgi-sys/weblog/ 1 -
+/cgi-sys/script/valid_formdata.js 1 -
+/cgi-sys/Admin/Common/HelpLinks.xml 1 -
+/cgi-sys/images/login9/login_33.jpg 1 -
+/cgi-sys/includes/general.js 1 -
+/cgi-sys/ckeditor/ckfinder/ckfinder.html 1 -
+/cgi-sys/auth/login 1 -
+/cgi-sys/include/dedeajax2.js 1 -
+/cgi-sys/wcm/ 1 -
+/cgi-sys/help/en/h_authenticate.html 1 -
+/cgi-sys/admin.php 1 -
+/cgi-sys/asp.net/README.txt 1 -
+/cgi-sys/style/default/hdwiki.css 1 -
+/cgi-sys/Admin/Images/LoginImages/admin_top.gif 1 -
+/cgi-sys/FCK/fckeditor.js 1 -
+/wp-content/ 1 http://egyptluxury.net/wp-content/
+/cgi-sys/admin/inc/xml.xslt 1 -
+/cgi-sys/console/auth/reg_newuser.jsp 1 -
+/cgi-sys/jcms/index.jsp 1 -
+/cgi-sys/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/cgi-sys/admin 1 -
+/cgi-sys/images/login/eyoumail.gif 1 -
+/cgi-sys/admin/start/index.php 1 -
+/cgi-sys/images/Default_bg_002.gif 1 -
+/cgi-sys/web2/login_template/1.files/Logo1.jpg 1 -
+/cgi-sys/admin/login.asp 1 -
+/cgi-sys/dialog/dialog.js 1 -
+/cgi-sys/images/default/post_bt.gif 1 -
+/cgi-sys/whir_system/login.aspx 1 -
+/cgi-sys/tpl/login/user/images/login_bg_1.jpg 1 -
+/cgi-sys/system/skins/default/system.login.htm 1 -
+/cgi-sys/Ntalker/lawfirm.aspx 1 -
+/cgi-sys/images/zh-CN/logo.ico 1 -
+/cgi-sys/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/cgi-sys/ckfinder/install.txt 1 -
+/cgi-sys/Prompt/images/P_Wrong.gif 1 -
+/cgi-sys/app/login.jsp 1 -
+/cgi-sys/api/api_user.xml 1 -
+/cgi-sys/media/com_hikashop/js/hikashop.js 1 -
+/cgi-sys/blog/ 1 -
+/cgi-sys/archive/archive.css 1 -
+/cgi-sys/Template/Default/Skin/user/images/login_back.jpg 1 -
+/cgi-sys/kindeditor-min.js 1 -
+/cgi-sys/editor/js/fckeditorcode_ie.js 1 -
+/cgi-sys/default/css/em_css.css 1 -
+/cgi-sys/images/branding/logo.gif 1 -
+/cgi-sys/list.php 1 -
+/cgi-sys/tpl/user/tpl1/css/skins/blue.css 1 -
+/cgi-sys/cgi/index.cgi 1 -
+/cgi-sys/apps/admin/_static/image/login_box_bg.png 1 -
+/cgi-sys/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/cgi-sys/jetspeed/index.jsp 1 -
+/cgi-sys/Error.aspx 1 -
+/cgi-sys/maintlogin.jsp 1 -
+/cgi-sys/new_gb/help/images/usage/3.3.gif 1 -
+/cgi-sys/Editor.js 1 -
+/cgi-sys/admin/login.aspx 1 -
+/cgi-sys/bencandy.php 1 -
+/cgi-sys/admin/SouthidcEditor/ewebeditor.asp 1 -
+/cgi-sys/Admin/Login.aspx 1 -
+/cgi-sys/help/ch_gb/images/help-title.gif 1 -
+/cgi-sys/admin/ 1 -
+/cgi-sys/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/cgi-sys/themes/default/default.css 1 -
+/cgi-sys/wp-content 1 -
+/cgi-sys/plus/download.php 1 -
+/cgi-sys/licence.txt 1 -
+/cgi-sys/rss.aspx 1 -
+/cgi-sys/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/cgi-sys/Images/login/mainlogo.gif 1 -
+/cgi-sys/admin/login.php 1 -
+/cgi-sys/next/img/logo.gif 1 -
+/cgi-sys/install 1 -
+/cgi-sys/adminsoft/templates/images/login_bg_top.jpg 1 -
+/cgi-sys/FCK/editor/js/fckeditorcode_ie.js 1 -
+/cgi-sys/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/cgi-sys/app/images/login/toplogo.gif 1 -
+/cgi-sys/back/scripts/jspxcms_choose.js 1 -
+/cgi-sys/default/images/logo.gif 1 -
+/cgi-sys/License.txt 1 -
+/cgi-sys/was/main.html 1 -
+/cgi-sys/common/common.js 1 -
+/cgi-sys/README.txt 1 -
+/cgi-sys/docs/DOCUMENTATION.txt 1 -
+/cgi-sys/digg.php 1 -
+/cgi-sys/stylesheet.css 1 -
+/cgi-sys/admin/index.php 1 -
+/cgi-sys/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/cgi-sys/forums/list.page 1 -
+/cgi-sys/Images/login/biaoti.jpg 1 -
+/cgi-sys/console/js/CWCMDialogHead.js 1 -
+/cgi-sys/fckeditor/fckconfig.js 1 -
+/cgi-sys/User/Login.aspx 1 -
+/cgi-sys/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/cgi-sys/data/images/wap_logo.gif 1 -
+/cgi-sys/common/help/images/helplogo_zh.gif 1 -
+/cgi-sys/static/images/logo/webserver_small.gif 1 -
+/cgi-sys/advfile/ad12.js 1 -
+/cgi-sys/images/logo_88x31.gif 1 -
+/cgi-sys/doku.php 1 -
+/cgi-sys/fckeditor.js 1 -
+/cgi-sys/uc_server/control/admin/db.php 1 -
+/cgi-sys/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/cgi-sys/phpmyadmin/themes/original/img/logo_right.png 1 -
+/cgi-sys/skin/frontend/default/modern/css/styles.css 1 -
+/cgi-sys/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/cgi-sys/examples/file-manager.html 1 -
+/cgi-sys/docs.css 1 -
+/cgi-sys/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/cgi-sys/m 1 -
+/cgi-sys/pub/skins/pmwiki/pmwiki.css 1 -
+/cgi-sys/lang/en.js 1 -
+/cgi-sys/app/js/source/wcmlib/WCMConstants.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 46
+72.76.221.220 20 20 224878 20160815215552
+80.80.228.71 18 18 42248 20160816163403
+1.222.89.69 8 23 1701634 20160818204422
+125.64.94.206 6 6 2964 20160809004116
+67.229.128.35 3 27 1948210 20160818221958
+116.249.59.72 3 3 42549 20160817050835
+208.43.225.85 3 3 1482 20160813083019
+158.69.134.28 2 2 27938 20160818023226
+80.241.212.78 2 2 988 20160809201219
+54.235.227.22 2 2 988 20160802225608
+41.65.198.150 2 24 1997529 20160816100337
+69.58.178.58 2 2 988 20160805210353
+94.24.246.194 2 2 988 20160802070934
+217.55.67.154 2 25 1999088 20160817101138
+156.212.132.243 2 2 988 20160812191945
+208.90.57.196 2 2 988 20160809110432
+52.4.244.57 2 2 988 20160814190123
+41.130.54.157 2 2 988 20160813042245
+220.181.51.109 1 1 494 20160815050758
+83.217.27.128 1 1 494 20160808122503
+195.154.146.225 1 1 494 20160808233322
+109.196.203.43 1 1 494 20160808183938
+193.248.251.210 1 1 494 20160809134657
+192.95.56.72 1 1 494 20160812083339
+195.154.183.187 1 1 494 20160802115329
+216.19.217.176 1 1 494 20160804045411
+216.19.216.75 1 1 494 20160806100403
+5.164.95.12 1 1 494 20160807224218
+38.100.21.67 1 1 494 20160810184914
+217.69.133.169 1 1 14184 20160816041752
+198.240.106.181 1 1 494 20160801205201
+46.229.170.197 1 1 494 20160812013948
+52.90.222.64 1 1 494 20160806002137
+65.19.167.132 1 1 494 20160812165216
+91.189.112.7 1 1 494 20160801080946
+37.59.184.182 1 1 494 20160806075439
+208.43.225.84 1 1 494 20160804115504
+176.9.98.12 1 1 494 20160803010915
+195.154.181.168 1 1 494 20160813053517
+206.41.170.160 1 1 494 20160812231656
+46.73.170.122 1 1 494 20160808082955
+195.154.165.246 1 1 494 20160813041232
+156.205.121.236 1 1 494 20160801042739
+222.165.225.71 1 1 14184 20160817123443
+134.249.51.75 1 1 494 20160811050446
+188.138.105.86 1 1 14181 20160818130816
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20160801 4 4 1976 4
+20160802 5 5 2470 3
+20160803 2 2 988 2
+20160804 3 3 1482 3
+20160805 2 2 988 1
+20160806 5 5 2470 4
+20160807 1 1 494 1
+20160808 4 4 1976 4
+20160809 11 11 5434 6
+20160810 1 1 494 1
+20160811 2 2 988 2
+20160812 6 6 2964 5
+20160813 7 7 3458 4
+20160814 2 2 988 1
+20160815 22 22 225866 3
+20160816 21 43 2053961 3
+20160817 6 29 2055821 3
+20160818 7 46 3688505 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 1
+0s-30s 50
+30s-2mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/cgi-sys/suspendedpage.cgi 57 28158 43 43
+/en/manufacture_product.php 19 53064 1 1
+/en/home.php 15 212745 10 6
+/en/page.php 8 82219 0 1
+/en/all_manufacture.php 6 82524 0 3
+/en/category.php 2 1694 0 0
+/en/contact_us.php 1 14365 0 0
+/en/forgotpassword.php 1 13089 0 0
+/en/register.php 1 15412 0 0
+/en/all_category.php 1 13076 0 0
+END_SIDER
